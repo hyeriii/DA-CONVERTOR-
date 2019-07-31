@@ -1,0 +1,55 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : DA CONVERTOR.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jul 31 15:20:11 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3 at (3.473 85.348)
+         Placed symbol:  U4 / LM741_0_DIP8_3_LM741 / DIP8_3 at (13.836 77.093)
+         Placed symbol:  U2 / LM741_0_DIP8_3_LM741 / DIP8_3 at (24.199 77.093)
+         Placed symbol:  U1 / LM741_0_DIP8_3_LM741 / DIP8_3 at (34.562 77.093)
+         Placed symbol:  J2 / CON4_JUMPER4_CON4 / JUMPER4 at (44.925 69.727)
+         Placed symbol:  J1 / CON2_JUMPER2_CON2 / JUMPER2 at (55.288 69.473)
+         Placed symbol:  R11 / R_RES400_10K / RES400 at (61.155 69.384)
+         Placed symbol:  R1 / R_RES400_10K / RES400 at (64.482 69.384)
+         Placed symbol:  R13 / R_RES400_10K / RES400 at (67.809 69.384)
+         Placed symbol:  R16 / R_RES400_10K / RES400 at (71.136 69.384)
+         Placed symbol:  R18 / R_RES400_10K / RES400 at (74.463 69.384)
+         Placed symbol:  R3 / R_RES400_10K / RES400 at (77.790 69.384)
+         Placed symbol:  R15 / R_RES400_10K / RES400 at (81.117 69.384)
+ERROR:   Could not find symbol:  D1 / D1N4148_DO-35_D1N4148 / DO-35
+         Placed symbol:  R6 / R_RES400_10K / RES400 at (84.444 69.384)
+         Placed symbol:  R14 / R_RES400_22K / RES400 at (87.771 69.384)
+         Placed symbol:  R17 / R_RES400_22K / RES400 at (91.098 69.384)
+         Placed symbol:  R9 / R_RES400_22K / RES400 at (94.425 69.384)
+         Placed symbol:  R2 / R_RES400_5.1K / RES400 at (4.057 88.637)
+         Placed symbol:  R4 / R_RES400_1K / RES400 at (7.384 88.637)
+         Placed symbol:  R5 / R_RES400_1K / RES400 at (10.711 88.637)
+         Placed symbol:  R8 / R_RES400_1K / RES400 at (14.038 88.637)
+         Placed symbol:  R7 / R_RES400_6.8K / RES400 at (17.365 88.637)
+         Placed symbol:  D2 / DIODE ZENER_DO41_RD 5.6A / DO41 at (20.362 88.599)
+         Placed symbol:  R12 / R_RES400_22K / RES400 at (23.943 88.637)
+         Placed symbol:  R10 / R_RES400_22K / RES400 at (27.270 88.637)
+         Placed symbol:  C1 / CAP NP_CAP196_0.1UF / CAP196 at (31.537 88.726)
+
+
+Placed 26 of 27 applicable (27 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  D1 / D1N4148_DO-35_D1N4148 / DO-35
+
+
+Placed 0 of 1 applicable (1 total) symbols.
+
+-----------------------------------------------------------------------
+

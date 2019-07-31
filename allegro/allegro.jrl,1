@@ -1,0 +1,3631 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Jul 31 15:22:02 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=3440 CPUs=4
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\EX\DA CONVERTOR\allegro\DA CONVERTOR.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/AppData/Roaming/SPB_Data/pcbenv"
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/USER/DESKTOP/EX/DA CONVERTOR/allegro/DA CONVERTOR.brd
+\i (00:00:03) trapsize 1285
+\i (00:00:04) trapsize 1367
+\i (00:00:04) trapsize 1367
+\i (00:00:04) trapsize 1285
+\i (00:00:04) generaledit 
+\i (00:00:11) done 
+\i (00:00:11) place manual 
+\i (00:00:11) FORM plc_manual placement_list 
+\i (00:00:11) FORM plc_manual categories Components by refdes 
+\i (00:00:11) trapsize 1285
+\i (00:00:12) setwindow form.plc_manual
+\i (00:00:12) FORM plc_manual tree 'MULTISEL YES' D1 'Components by refdes' 
+\t (00:00:12) Placing D1 / D1N4148_DO41_D1N4148 / DO41 on Top.
+\i (00:00:12) FORM plc_manual tree  D1 'Components by refdes' 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) pick grid 48.658 105.180
+\t (00:00:13) last pick:  48.260 104.140
+\i (00:00:15) setwindow form.plc_manual
+\i (00:00:15) FORM plc_manual cancel  
+\i (00:00:15) setwindow pcb
+\i (00:00:15) generaledit 
+\i (00:02:47) trapsize 478
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 40.076 -6.807
+\i (00:02:48) trapsize 239
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 40.076 -6.806
+\i (00:02:48) trapsize 119
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 40.076 -6.806
+\i (00:02:48) trapsize 60
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 40.076 -6.806
+\i (00:02:48) trapsize 30
+\i (00:02:48) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 40.112 -6.806
+\i (00:02:49) trapsize 60
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 40.112 -6.805
+\i (00:02:49) trapsize 119
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 40.112 -6.805
+\i (00:02:49) trapsize 239
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 40.112 -6.805
+\i (00:02:49) trapsize 478
+\i (00:02:49) zoom out 1 
+\i (00:02:49) setwindow pcb
+\i (00:02:49) zoom out 40.112 -6.805
+\i (00:02:49) trapsize 956
+\i (00:02:50) roam start
+\i (00:02:50) roam y -80
+\i (00:02:50) roam y -48
+\i (00:02:50) roam y -16
+\i (00:02:50) roam y -48
+\i (00:02:50) roam y -16
+\i (00:02:51) roam end
+\i (00:02:51) zoom in 1 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom in 15.553 64.478
+\i (00:02:51) trapsize 478
+\i (00:02:54) move 
+\t (00:02:54) Select element(s) to move.
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 48.138 68.014
+\i (00:02:57) trapsize 239
+\i (00:02:59) pick grid 47.804 69.304
+\t (00:02:59) last pick:  48.260 68.580
+\t (00:02:59) last pick:  44.925 69.727
+\t (00:02:59) Moving J2 / CON4_JUMPER4_CON4 / JUMPER4.
+\t (00:02:59) Pick new location for the element(s).
+\i (00:03:01) prepopup 48.855 56.930
+\i (00:03:03) rotate 
+\t (00:03:03) Spin the element(s).
+\i (00:03:03) iangle 90.000
+\t (00:03:03) last angle:  90.000 Degrees
+\i (00:03:12) pick 5,35 
+\t (00:03:12) last pick:  5.000 35.000
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out 47.040 59.175
+\i (00:03:15) trapsize 478
+\i (00:03:17) pick grid 57.073 69.113
+\t (00:03:17) last pick:  55.880 68.580
+\t (00:03:17) last pick:  55.288 69.473
+\t (00:03:17) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:03:17) Pick new location for the element(s).
+\i (00:03:20) drag_start grid 88.702 41.402
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) roam y 16
+\i (00:03:21) drag_stop grid 85.836 13.641
+\i (00:03:25) pick grid 77.235 34.090
+\t (00:03:25) last pick:  76.200 33.020
+\i (00:03:26) pick grid 86.218 14.119
+\t (00:03:26) last pick:  86.360 15.240
+\t (00:03:26) last pick:  86.360 12.700
+\t (00:03:26) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:03:26) Pick new location for the element(s).
+\i (00:03:26) prepopup 78.095 35.046
+\i (00:03:27) rotate 
+\t (00:03:27) Spin the element(s).
+\i (00:03:28) iangle 90.000
+\t (00:03:28) last angle:  90.000 Degrees
+\i (00:03:35) pick 5,30 
+\t (00:03:35) last pick:  5.000 30.000
+\i (00:03:41) pick 30,5 
+\t (00:03:41) last pick:  30.000 5.000
+\i (00:03:43) pick 30,5 
+\t (00:03:43) last pick:  30.000 5.000
+\i (00:03:46) move 
+\t (00:03:46) Select element(s) to move.
+\i (00:03:48) pick grid 4.994 29.312
+\t (00:03:48) last pick:  5.080 30.480
+\t (00:03:48) last pick:  5.000 30.000
+\t (00:03:48) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:03:48) Pick new location for the element(s).
+\i (00:03:49) pick 30,5 
+\t (00:03:49) last pick:  30.000 5.000
+\i (00:03:52) pick 30,5 
+\t (00:03:52) last pick:  30.000 5.000
+\t (00:03:52) last pick:  30.000 5.000
+\t (00:03:52) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:03:52) Pick new location for the element(s).
+\i (00:03:54) pick 30,5 
+\t (00:03:54) last pick:  30.000 5.000
+\i (00:04:09) pick 95,30 
+\t (00:04:09) last pick:  95.000 30.000
+\i (00:04:11) move 
+\t (00:04:11) Select element(s) to move.
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out 39.013 46.226
+\i (00:04:12) trapsize 956
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out 60.465 45.271
+\i (00:04:12) trapsize 1327
+\i (00:04:13) pick grid 31.239 4.425
+\t (00:04:13) last pick:  30.480 5.080
+\t (00:04:13) last pick:  30.000 5.000
+\t (00:04:13) Moving J1 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:04:13) Pick new location for the element(s).
+\i (00:04:15) pick 95,30 
+\t (00:04:15) last pick:  95.000 30.000
+\i (00:04:17) zoom in 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom in 9.734 25.664
+\i (00:04:17) trapsize 664
+\i (00:04:18) zoom in 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom in 9.734 25.664
+\i (00:04:18) trapsize 332
+\i (00:04:19) zoom out 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom out 37.213 28.120
+\i (00:04:19) trapsize 664
+\i (00:04:31) trapsize 1784
+\i (00:04:33) zoom in 1 
+\i (00:04:33) setwindow pcb
+\i (00:04:33) zoom in 95.503 60.070
+\i (00:04:33) trapsize 892
+\i (00:04:34) roam start
+\i (00:04:34) roam x -32
+\i (00:04:35) roam x -48
+\i (00:04:35) roam x -48
+\i (00:04:35) roam x -48
+\i (00:04:35) roam x -32
+\i (00:04:35) roam x -32
+\i (00:04:35) roam x -48
+\i (00:04:35) roam x 48
+\i (00:04:35) roam end
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 32.621 40.798
+\i (00:04:36) trapsize 1784
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 53.142 21.525
+\i (00:04:36) trapsize 2569
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 98.500 -39.371
+\i (00:04:36) trapsize 2569
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 98.500 -39.371
+\i (00:04:36) trapsize 2569
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 98.500 -39.371
+\i (00:04:36) trapsize 2569
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 98.500 -39.371
+\i (00:04:36) trapsize 2569
+\i (00:04:36) zoom out 1 
+\i (00:04:36) setwindow pcb
+\i (00:04:36) zoom out 98.500 -39.371
+\i (00:04:36) trapsize 2569
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 98.500 -39.371
+\i (00:04:37) trapsize 1285
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 98.500 49.428
+\i (00:04:37) trapsize 642
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 98.500 49.428
+\i (00:04:37) trapsize 321
+\i (00:04:38) zoom out 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom out 111.282 44.225
+\i (00:04:38) trapsize 642
+\i (00:04:38) zoom out 1 
+\i (00:04:38) setwindow pcb
+\i (00:04:38) zoom out 111.154 43.712
+\i (00:04:38) trapsize 1285
+\i (00:04:39) zoom in 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom in 19.177 33.337
+\i (00:04:39) trapsize 642
+\i (00:05:06) prmed 
+\i (00:05:07) setwindow form.prmedit
+\i (00:05:07) FORM prmedit text  
+\i (00:05:09) FORM prmedit text_setup_button  
+\i (00:05:10) setwindow form.textblock
+\i (00:05:10) FORM textblock compact  
+\i (00:05:12) FORM textblock add  
+\i (00:05:17) FORM textblock nextname1 width 1.500 
+\i (00:05:19) FORM textblock nextname1 height 4.000 
+\i (00:05:25) FORM textblock nextname1 photoplot_width 0.500 
+\i (00:05:25) FORM textblock done  
+\i (00:05:27) setwindow form.prmedit
+\i (00:05:27) FORM prmedit done  
+\i (00:05:27) setwindow pcb
+\i (00:05:27) generaledit 
+\i (00:05:30) add text 
+\t (00:05:30) Pick text location.
+\i (00:05:34) setwindow form.mini
+\i (00:05:34) FORM mini text_block 4 
+\i (00:05:35) FORM mini text_justification Center 
+\i (00:05:41) FORM mini class PACKAGE GEOMETRY 
+\i (00:05:44) FORM mini subclass SILKSCREEN_TOP 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) pick grid 43.328 63.910
+\t (00:05:47) last pick:  43.180 63.500
+\t (00:05:47) Enter text string.
+\i (00:05:59) setwindow pcb
+\i (00:05:59) pick 43.180 63.500
+\t (00:05:59) Enter text string.
+\i (00:06:01) pick grid 57.330 61.726
+\t (00:06:01) last pick:  58.420 60.960
+\t (00:06:01) Enter text string.
+\i (00:06:03) setwindow pcb
+\i (00:06:03) pick grid 48.081 64.296
+\t (00:06:03) last pick:  48.260 63.500
+\t (00:06:03) Enter text string.
+\i (00:06:06) setwindow pcb
+\i (00:06:06) pick grid 31.510 7.131
+\t (00:06:06) last pick:  30.480 7.620
+\t (00:06:06) Enter text string.
+\i (00:06:25) setwindow pcb
+\i (00:06:25) prepopup 45.640 25.244
+\i (00:06:26) done 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) pick 30.480 7.620
+\i (00:06:26) setwindow pcb
+\i (00:06:26) generaledit 
+\i (00:06:27) drag_start grid 34.207 8.929
+\i (00:06:27) move 
+\t (00:06:27) last pick:  30.480 7.620
+\t (00:06:27) Pick new location for the element(s).
+\i (00:06:27) drag_stop grid 42.172 5.846
+\i (00:06:28) generaledit 
+\i (00:06:28) zoom out 1 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom out 38.575 12.398
+\i (00:06:28) trapsize 1285
+\i (00:06:29) drag_start grid 49.623 64.682
+\i (00:06:29) move 
+\t (00:06:29) last pick:  43.180 63.500
+\t (00:06:29) Pick new location for the element(s).
+\i (00:06:31) drag_stop grid 47.567 63.140
+\i (00:06:31) generaledit 
+\i (00:06:31) drag_start grid 43.971 6.617
+\i (00:06:31) move 
+\t (00:06:32) last pick:  43.180 5.080
+\t (00:06:32) Pick new location for the element(s).
+\i (00:06:34) drag_stop grid 48.595 4.562
+\i (00:06:34) generaledit 
+\i (00:06:35) pick grid 45.512 125.829
+\t (00:06:35) last pick:  45.720 127.000
+\i (00:06:35) prepopup 45.769 126.343
+\i (00:06:36) pick grid 24.444 136.363
+\t (00:06:36) last pick:  25.400 137.160
+\i (00:06:37) move 
+\t (00:06:37) Select element(s) to move.
+\i (00:06:40) zoom in 1 
+\i (00:06:40) setwindow pcb
+\i (00:06:40) zoom in 46.283 34.108
+\i (00:06:40) trapsize 642
+\i (00:06:58) zoom out 1 
+\i (00:06:58) setwindow pcb
+\i (00:06:58) zoom out 38.447 9.058
+\i (00:06:58) trapsize 1285
+\i (00:06:58) zoom in 1 
+\i (00:06:58) setwindow pcb
+\i (00:06:58) zoom in -0.862 41.302
+\i (00:06:58) trapsize 642
+\i (00:06:59) zoom in 1 
+\i (00:06:59) setwindow pcb
+\i (00:06:59) zoom in -0.862 41.302
+\i (00:06:59) trapsize 321
+\i (00:07:02) zoom out 1 
+\i (00:07:02) setwindow pcb
+\i (00:07:02) zoom out 12.177 30.383
+\i (00:07:02) trapsize 642
+\i (00:07:08) zoom out 1 
+\i (00:07:08) setwindow pcb
+\i (00:07:08) zoom out 32.345 34.622
+\i (00:07:08) trapsize 1285
+\i (00:07:09) zoom in 1 
+\i (00:07:09) setwindow pcb
+\i (00:07:09) zoom in 85.398 9.957
+\i (00:07:09) trapsize 642
+\i (00:07:10) roam start
+\i (00:07:10) roam x 48
+\i (00:07:10) roam x 64
+\i (00:07:10) roam y -16
+\i (00:07:10) roam x 32
+\i (00:07:10) roam x 32
+\i (00:07:10) roam y -16
+\i (00:07:10) roam x 32
+\i (00:07:11) roam x -32
+\i (00:07:11) roam end
+\i (00:07:19) roam start
+\i (00:07:19) roam x -48
+\i (00:07:19) roam x -32
+\i (00:07:19) roam y 16
+\i (00:07:19) roam x -32
+\i (00:07:19) roam x -32
+\i (00:07:19) roam y -16
+\i (00:07:20) roam y -16
+\i (00:07:20) roam x -16
+\i (00:07:20) roam y -16
+\i (00:07:20) roam y -16
+\i (00:07:20) roam x -16
+\i (00:07:20) roam x -16
+\i (00:07:20) roam x -16
+\i (00:07:20) roam x -16
+\i (00:07:20) roam x -16
+\i (00:07:20) roam x -16
+\i (00:07:20) roam x -16
+\i (00:07:20) roam x -16
+\i (00:07:21) roam x -16
+\i (00:07:21) roam x -16
+\i (00:07:21) roam x -32
+\i (00:07:21) roam y 16
+\i (00:07:21) roam x -16
+\i (00:07:21) roam x -16
+\i (00:07:21) roam end
+\i (00:07:22) pick grid 16.286 70.881
+\t (00:07:22) last pick:  15.240 71.120
+\t (00:07:22) last pick:  13.836 77.093
+\t (00:07:22) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:07:22) Pick new location for the element(s).
+\i (00:07:23) pick grid 41.978 32.985
+\t (00:07:23) last pick:  43.180 33.020
+\i (00:07:23) roam start
+\i (00:07:24) roam x 96
+\i (00:07:24) roam x 32
+\i (00:07:24) roam x 64
+\i (00:07:24) roam x 48
+\i (00:07:24) roam end
+\i (00:07:24) drag_start grid 45.446 28.746
+\i (00:07:24) drag_stop 52.768 28.746
+\t (00:07:24) last pick:  43.180 33.020
+\t (00:07:24) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:07:24) Pick new location for the element(s).
+\i (00:07:25) pick grid 77.304 32.471
+\t (00:07:25) last pick:  76.200 33.020
+\i (00:07:31) roam start
+\i (00:07:31) roam x 64
+\i (00:07:31) roam end
+\i (00:07:32) pick grid 94.903 76.148
+\t (00:07:32) last pick:  93.980 76.200
+\t (00:07:32) last pick:  94.425 69.384
+\t (00:07:32) Moving R9 / R_RES400_22K / RES400.
+\t (00:07:32) Pick new location for the element(s).
+\i (00:07:33) pick grid 97.858 76.019
+\t (00:07:33) last pick:  99.060 76.200
+\i (00:07:33) pick grid 91.820 74.221
+\t (00:07:33) last pick:  91.440 73.660
+\t (00:07:34) last pick:  91.098 69.384
+\t (00:07:34) Moving R17 / R_RES400_22K / RES400.
+\t (00:07:34) Pick new location for the element(s).
+\i (00:07:34) pick grid 91.820 75.249
+\t (00:07:34) last pick:  91.440 76.200
+\i (00:07:35) pick grid 86.425 74.863
+\t (00:07:35) last pick:  86.360 73.660
+\t (00:07:35) last pick:  84.444 69.384
+\t (00:07:35) Moving R6 / R_RES400_10K / RES400.
+\t (00:07:35) Pick new location for the element(s).
+\i (00:07:36) pick grid 84.755 80.130
+\t (00:07:36) last pick:  83.820 81.280
+\i (00:07:37) pick grid 80.773 74.863
+\t (00:07:37) last pick:  81.280 73.660
+\t (00:07:37) last pick:  81.117 69.384
+\t (00:07:37) Moving R15 / R_RES400_10K / RES400.
+\t (00:07:37) Pick new location for the element(s).
+\i (00:07:37) pick grid 78.717 80.259
+\t (00:07:37) last pick:  78.740 81.280
+\i (00:07:38) pick grid 74.221 73.836
+\t (00:07:38) last pick:  73.660 73.660
+\t (00:07:38) last pick:  74.463 69.384
+\t (00:07:38) Moving R18 / R_RES400_10K / RES400.
+\t (00:07:38) Pick new location for the element(s).
+\i (00:07:39) pick grid 68.826 80.130
+\t (00:07:39) last pick:  68.580 81.280
+\i (00:07:40) pick grid 68.312 74.606
+\t (00:07:40) last pick:  68.580 73.660
+\t (00:07:40) last pick:  67.809 69.384
+\t (00:07:40) Moving R13 / R_RES400_10K / RES400.
+\t (00:07:40) Pick new location for the element(s).
+\i (00:07:41) pick grid 55.723 80.130
+\t (00:07:41) last pick:  55.880 81.280
+\i (00:07:42) pick grid 72.037 73.836
+\t (00:07:42) last pick:  71.120 73.660
+\t (00:07:42) last pick:  71.136 69.384
+\t (00:07:42) Moving R16 / R_RES400_10K / RES400.
+\t (00:07:42) Pick new location for the element(s).
+\i (00:07:43) pick grid 72.037 72.294
+\t (00:07:43) last pick:  71.120 71.120
+\i (00:07:44) pick grid 88.866 72.808
+\t (00:07:44) last pick:  88.900 73.660
+\t (00:07:44) last pick:  87.771 69.384
+\t (00:07:44) Moving R14 / R_RES400_22K / RES400.
+\t (00:07:44) Pick new location for the element(s).
+\i (00:07:44) pick grid 87.453 73.193
+\t (00:07:44) last pick:  86.360 73.660
+\i (00:07:45) pick grid 59.705 72.551
+\t (00:07:45) last pick:  60.960 73.660
+\t (00:07:45) last pick:  61.155 69.384
+\t (00:07:45) Moving R11 / R_RES400_10K / RES400.
+\t (00:07:45) Pick new location for the element(s).
+\i (00:07:46) pick grid 48.015 80.130
+\t (00:07:46) last pick:  48.260 81.280
+\i (00:07:47) roam start
+\i (00:07:47) roam x -128
+\i (00:07:47) roam x -96
+\i (00:07:47) roam x -16
+\i (00:07:47) roam x -16
+\i (00:07:47) roam y -48
+\i (00:07:47) roam y -48
+\i (00:07:47) roam x -16
+\i (00:07:47) roam y -48
+\i (00:07:48) roam end
+\i (00:07:49) pick grid 28.104 95.545
+\t (00:07:49) last pick:  27.940 96.520
+\t (00:07:49) last pick:  27.270 88.637
+\t (00:07:49) Moving R10 / R_RES400_22K / RES400.
+\t (00:07:49) Pick new location for the element(s).
+\i (00:07:51) pick grid 50.071 41.206
+\t (00:07:51) last pick:  50.800 40.640
+\i (00:07:53) roam start
+\i (00:07:53) roam x 32
+\i (00:07:53) roam y 16
+\i (00:07:53) roam x 32
+\i (00:07:53) roam y 32
+\i (00:07:53) roam x 32
+\i (00:07:53) roam y 16
+\i (00:07:53) roam x 32
+\i (00:07:53) roam y 16
+\i (00:07:53) roam x 48
+\i (00:07:53) roam y 16
+\i (00:07:53) roam x 64
+\i (00:07:53) roam y 16
+\i (00:07:53) roam x 48
+\i (00:07:53) roam x 32
+\i (00:07:53) roam x 48
+\i (00:07:54) roam x 16
+\i (00:07:54) roam x -16
+\i (00:07:54) roam y 32
+\i (00:07:54) roam end
+\i (00:07:55) pick grid 50.841 47.501
+\t (00:07:55) last pick:  50.800 48.260
+\t (00:07:55) last pick:  50.800 40.640
+\t (00:07:55) Moving R10 / R_RES400_22K / RES400.
+\t (00:07:55) Pick new location for the element(s).
+\i (00:07:56) pick grid 80.130 40.693
+\t (00:07:56) last pick:  81.280 40.640
+\i (00:07:56) pick grid 79.873 26.562
+\t (00:07:56) last pick:  78.740 25.400
+\t (00:07:56) last pick:  76.200 33.020
+\t (00:07:56) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:07:57) Pick new location for the element(s).
+\i (00:07:57) prepopup 74.992 26.691
+\i (00:07:58) rotate 
+\t (00:07:58) Spin the element(s).
+\i (00:07:58) iangle 90.000
+\t (00:07:58) last angle:  90.000 Degrees
+\i (00:07:59) pick grid 72.037 21.809
+\t (00:07:59) last pick:  71.120 22.860
+\i (00:08:00) pick grid 76.276 23.479
+\t (00:08:00) last pick:  76.200 22.860
+\t (00:08:00) last pick:  71.120 22.860
+\t (00:08:00) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:08:00) Pick new location for the element(s).
+\i (00:08:02) pick grid 69.725 21.038
+\t (00:08:02) last pick:  68.580 20.320
+\i (00:08:03) pick grid 83.470 14.230
+\t (00:08:03) last pick:  83.820 15.240
+\i (00:08:07) pick grid 80.516 44.804
+\t (00:08:07) last pick:  81.280 45.720
+\t (00:08:07) last pick:  81.280 40.640
+\t (00:08:07) Moving R10 / R_RES400_22K / RES400.
+\t (00:08:07) Pick new location for the element(s).
+\i (00:08:07) prepopup 67.284 36.068
+\i (00:08:08) rotate 
+\t (00:08:08) Spin the element(s).
+\i (00:08:10) iangle 90.000
+\t (00:08:10) last angle:  90.000 Degrees
+\i (00:08:11) pick grid 76.662 34.398
+\t (00:08:11) last pick:  76.200 35.560
+\i (00:08:12) pick grid 75.763 34.141
+\t (00:08:12) last pick:  76.200 33.020
+\t (00:08:12) last pick:  76.200 35.560
+\t (00:08:12) Moving R10 / R_RES400_22K / RES400.
+\t (00:08:12) Pick new location for the element(s).
+\i (00:08:14) pick grid 77.690 32.600
+\t (00:08:14) last pick:  78.740 33.020
+\i (00:08:14) pick grid 86.553 20.139
+\t (00:08:14) last pick:  86.360 20.320
+\i (00:08:24) pick grid 78.589 83.727
+\t (00:08:24) last pick:  78.740 83.820
+\t (00:08:24) last pick:  78.740 81.280
+\t (00:08:24) Moving R15 / R_RES400_10K / RES400.
+\t (00:08:24) Pick new location for the element(s).
+\i (00:08:28) pick grid 63.302 8.835
+\t (00:08:28) last pick:  63.500 7.620
+\i (00:08:29) roam start
+\i (00:08:30) roam x -32
+\i (00:08:30) roam x -32
+\i (00:08:30) roam x -48
+\i (00:08:30) roam x -32
+\i (00:08:30) roam x -32
+\i (00:08:30) roam x -80
+\i (00:08:30) roam y 16
+\i (00:08:30) roam x -80
+\i (00:08:30) roam y 16
+\i (00:08:30) roam x -48
+\i (00:08:31) roam y 16
+\i (00:08:31) roam x 16
+\i (00:08:31) roam x 32
+\i (00:08:31) roam x 16
+\i (00:08:31) roam x 16
+\i (00:08:31) roam x 16
+\i (00:08:31) roam x 32
+\i (00:08:31) roam x 32
+\i (00:08:31) roam y -16
+\i (00:08:31) roam x 32
+\i (00:08:31) roam y -16
+\i (00:08:31) roam x 32
+\i (00:08:31) roam x 32
+\i (00:08:31) roam x 16
+\i (00:08:31) roam x 16
+\i (00:08:31) roam x 16
+\i (00:08:32) roam x 16
+\i (00:08:32) roam x 16
+\i (00:08:32) roam x 16
+\i (00:08:32) roam x -16
+\i (00:08:32) roam x -16
+\i (00:08:32) roam x -16
+\i (00:08:32) roam x -16
+\i (00:08:32) roam end
+\i (00:08:33) pick grid 74.478 34.013
+\t (00:08:33) last pick:  73.660 33.020
+\t (00:08:33) last pick:  78.740 33.020
+\t (00:08:33) Moving R10 / R_RES400_22K / RES400.
+\t (00:08:33) Pick new location for the element(s).
+\i (00:08:34) pick grid 85.140 31.958
+\t (00:08:34) last pick:  86.360 33.020
+\i (00:08:35) pick grid 75.377 21.810
+\t (00:08:35) last pick:  76.200 22.860
+\t (00:08:35) last pick:  68.580 20.320
+\t (00:08:35) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:08:35) Pick new location for the element(s).
+\i (00:08:37) prepopup 77.947 20.910
+\i (00:08:39) rotate 
+\t (00:08:39) Spin the element(s).
+\i (00:08:40) iangle 180.000
+\t (00:08:40) last angle:  270.000 Degrees
+\i (00:08:42) pick grid 82.700 26.691
+\t (00:08:42) last pick:  83.820 27.940
+\i (00:08:42) pick grid 84.627 32.729
+\t (00:08:42) last pick:  83.820 33.020
+\t (00:08:42) last pick:  86.360 33.020
+\t (00:08:42) Moving R10 / R_RES400_22K / RES400.
+\t (00:08:42) Pick new location for the element(s).
+\i (00:08:43) pick grid 89.380 13.717
+\t (00:08:43) last pick:  88.900 12.700
+\i (00:08:44) pick grid 82.828 21.424
+\t (00:08:44) last pick:  83.820 20.320
+\t (00:08:44) last pick:  83.820 27.940
+\t (00:08:44) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:08:44) Pick new location for the element(s).
+\i (00:08:46) pick grid 82.957 31.830
+\t (00:08:46) last pick:  83.820 33.020
+\i (00:08:47) pick grid 83.856 13.203
+\t (00:08:47) last pick:  83.820 12.700
+\t (00:08:47) last pick:  88.900 12.700
+\t (00:08:47) Moving R10 / R_RES400_22K / RES400.
+\t (00:08:47) Pick new location for the element(s).
+\i (00:08:50) pick grid 87.710 15.900
+\t (00:08:50) last pick:  88.900 15.240
+\i (00:09:04) roam start
+\i (00:09:05) roam x -128
+\i (00:09:05) roam y 16
+\i (00:09:05) roam x -48
+\i (00:09:05) roam x -64
+\i (00:09:05) roam x -48
+\i (00:09:05) roam x -32
+\i (00:09:05) roam x 16
+\i (00:09:05) roam x 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam x 16
+\i (00:09:06) roam x 16
+\i (00:09:07) roam x 16
+\i (00:09:07) roam y 16
+\i (00:09:08) roam y 16
+\i (00:09:08) roam x -32
+\i (00:09:08) roam y 16
+\i (00:09:08) roam x -32
+\i (00:09:10) roam y -16
+\i (00:09:10) roam y -16
+\i (00:09:10) roam x 16
+\i (00:09:10) roam y -16
+\i (00:09:10) roam y -16
+\i (00:09:10) roam y -16
+\i (00:09:10) roam x 16
+\i (00:09:10) roam y -16
+\i (00:09:10) roam y -16
+\i (00:09:10) roam x 16
+\i (00:09:10) roam y -16
+\i (00:09:10) roam x 16
+\i (00:09:10) roam y -16
+\i (00:09:10) roam x 16
+\i (00:09:11) roam x -16
+\i (00:09:11) roam x -16
+\i (00:09:11) roam x -16
+\i (00:09:11) roam x -16
+\i (00:09:11) roam y 16
+\i (00:09:11) roam y 16
+\i (00:09:11) roam x -16
+\i (00:09:11) roam y 16
+\i (00:09:11) roam y 16
+\i (00:09:12) roam end
+\i (00:09:14) roam start
+\i (00:09:14) roam x 32
+\i (00:09:14) roam end
+\i (00:09:18) pick grid 10.634 81.158
+\t (00:09:18) last pick:  10.160 81.280
+\t (00:09:18) last pick:  3.473 85.348
+\t (00:09:18) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:09:18) Pick new location for the element(s).
+\i (00:09:21) prepopup 24.379 32.985
+\i (00:09:22) rotate 
+\t (00:09:22) Spin the element(s).
+\i (00:09:23) iangle 90.000
+\t (00:09:23) last angle:  90.000 Degrees
+\i (00:09:25) pick grid 21.424 18.598
+\t (00:09:25) last pick:  20.320 17.780
+\i (00:09:26) pick grid 52.640 20.782
+\t (00:09:26) last pick:  53.340 20.320
+\i (00:09:26) roam start
+\i (00:09:27) roam x 32
+\i (00:09:27) roam x 48
+\i (00:09:27) roam y -32
+\i (00:09:27) roam x 32
+\i (00:09:27) roam y -16
+\i (00:09:27) roam x 32
+\i (00:09:27) roam y -16
+\i (00:09:27) roam x 16
+\i (00:09:27) roam y 16
+\i (00:09:27) roam y 32
+\i (00:09:28) roam x -16
+\i (00:09:28) roam y 16
+\i (00:09:28) roam x -32
+\i (00:09:28) roam y 16
+\i (00:09:29) roam y -16
+\i (00:09:29) roam y -16
+\i (00:09:29) roam y -16
+\i (00:09:29) roam x 16
+\i (00:09:29) roam y -16
+\i (00:09:29) roam y -16
+\i (00:09:30) roam x -16
+\i (00:09:30) roam x -16
+\i (00:09:30) roam y -16
+\i (00:09:30) roam x -16
+\i (00:09:30) roam y -16
+\i (00:09:30) roam y -16
+\i (00:09:30) roam x -16
+\i (00:09:30) roam y -16
+\i (00:09:30) roam y -16
+\i (00:09:30) roam x -16
+\i (00:09:30) roam x -32
+\i (00:09:30) roam x -48
+\i (00:09:30) roam x -16
+\i (00:09:31) roam end
+\i (00:09:33) pick grid 23.608 92.205
+\t (00:09:33) last pick:  22.860 91.440
+\t (00:09:33) last pick:  23.943 88.637
+\t (00:09:33) Moving R12 / R_RES400_22K / RES400.
+\t (00:09:33) Pick new location for the element(s).
+\i (00:09:34) pick grid 10.248 77.304
+\t (00:09:34) last pick:  10.160 76.200
+\i (00:09:35) pick grid 17.571 92.462
+\t (00:09:35) last pick:  17.780 91.440
+\t (00:09:35) last pick:  17.365 88.637
+\t (00:09:35) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:09:35) Pick new location for the element(s).
+\i (00:09:36) pick grid 14.359 77.432
+\t (00:09:36) last pick:  15.240 76.200
+\i (00:09:36) pick grid 15.901 90.792
+\t (00:09:36) last pick:  15.240 91.440
+\t (00:09:36) last pick:  14.038 88.637
+\t (00:09:36) Moving R8 / R_RES400_1K / RES400.
+\t (00:09:36) Pick new location for the element(s).
+\i (00:09:38) pick grid 17.185 92.719
+\t (00:09:38) last pick:  17.780 93.980
+\i (00:09:38) pick grid 19.369 90.664
+\t (00:09:38) last pick:  20.320 91.440
+\t (00:09:38) last pick:  20.362 88.599
+\t (00:09:38) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:09:38) Pick new location for the element(s).
+\i (00:09:39) pick grid 21.681 90.664
+\t (00:09:39) last pick:  22.860 91.440
+\i (00:09:41) roam start
+\i (00:09:42) roam x 48
+\i (00:09:42) roam x 32
+\i (00:09:42) roam end
+\i (00:09:43) pick grid 65.228 71.138
+\t (00:09:43) last pick:  66.040 71.120
+\t (00:09:43) last pick:  64.482 69.384
+\t (00:09:43) Moving R1 / R_RES400_10K / RES400.
+\t (00:09:43) Pick new location for the element(s).
+\i (00:09:45) pick grid 62.274 84.754
+\t (00:09:45) last pick:  63.500 83.820
+\i (00:09:46) pick grid 69.211 85.268
+\t (00:09:46) last pick:  68.580 86.360
+\t (00:09:46) last pick:  68.580 81.280
+\t (00:09:46) Moving R18 / R_RES400_10K / RES400.
+\t (00:09:46) Pick new location for the element(s).
+\i (00:09:46) pick grid 69.211 95.288
+\t (00:09:46) last pick:  68.580 96.520
+\i (00:09:50) roam start
+\i (00:09:50) roam x 96
+\i (00:09:50) roam x 48
+\i (00:09:50) roam x 32
+\i (00:09:50) roam x 48
+\i (00:09:50) roam y 16
+\i (00:09:51) roam x 32
+\i (00:09:51) roam x 32
+\i (00:09:51) roam end
+\i (00:09:53) roam start
+\i (00:09:53) roam x -48
+\i (00:09:53) roam x -48
+\i (00:09:53) roam x -32
+\i (00:09:53) roam y 16
+\i (00:09:53) roam x -48
+\i (00:09:53) roam y 32
+\i (00:09:53) roam x -16
+\i (00:09:53) roam y 16
+\i (00:09:53) roam x -32
+\i (00:09:53) roam y 32
+\i (00:09:53) roam y 32
+\i (00:09:53) roam x -16
+\i (00:09:53) roam y 16
+\i (00:09:54) roam x -16
+\i (00:09:54) roam y 16
+\i (00:09:54) roam x -80
+\i (00:09:54) roam x -32
+\i (00:09:54) roam x -32
+\i (00:09:54) roam x 16
+\i (00:09:55) roam x 32
+\i (00:09:55) roam x 48
+\i (00:09:55) roam x 16
+\i (00:09:55) roam x 16
+\i (00:09:55) roam x 16
+\i (00:09:55) roam y 16
+\i (00:09:55) roam x 16
+\i (00:09:55) roam y 16
+\i (00:09:55) roam x 16
+\i (00:09:55) roam y 16
+\i (00:09:55) roam x 16
+\i (00:09:55) roam x 16
+\i (00:09:55) roam y 16
+\i (00:09:55) roam x 16
+\i (00:09:55) roam x 16
+\i (00:09:57) roam x -32
+\i (00:09:57) roam x -32
+\i (00:09:57) roam x -16
+\i (00:09:57) roam x -16
+\i (00:09:57) roam x -32
+\i (00:09:57) roam x -16
+\i (00:09:57) roam y -16
+\i (00:09:57) roam x -16
+\i (00:09:57) roam x -32
+\i (00:09:57) roam y -16
+\i (00:09:57) roam x -64
+\i (00:09:57) roam x -48
+\i (00:09:57) roam y -16
+\i (00:09:58) roam y -16
+\i (00:09:58) roam y -16
+\i (00:09:58) roam y -16
+\i (00:09:58) roam y -16
+\i (00:09:58) roam x 16
+\i (00:09:58) roam y -16
+\i (00:09:58) roam x 16
+\i (00:09:58) roam x 16
+\i (00:09:58) roam x 16
+\i (00:09:58) roam x 16
+\i (00:09:59) roam x 16
+\i (00:09:59) roam x 16
+\i (00:09:59) roam x 16
+\i (00:09:59) roam x 16
+\i (00:09:59) roam y -16
+\i (00:09:59) roam y -16
+\i (00:09:59) roam y -16
+\i (00:09:59) roam y -16
+\i (00:09:59) roam x 16
+\i (00:09:59) roam y -16
+\i (00:09:59) roam y -16
+\i (00:10:00) roam end
+\i (00:10:01) roam start
+\i (00:10:02) roam x -32
+\i (00:10:02) roam end
+\i (00:10:05) pick grid 12.303 92.591
+\t (00:10:05) last pick:  12.700 91.440
+\t (00:10:05) last pick:  10.711 88.637
+\t (00:10:05) Moving R5 / R_RES400_1K / RES400.
+\t (00:10:05) Pick new location for the element(s).
+\i (00:10:06) pick grid 13.844 92.077
+\t (00:10:06) last pick:  12.700 91.440
+\i (00:10:06) pick grid 4.724 90.407
+\t (00:10:06) last pick:  5.080 91.440
+\t (00:10:06) last pick:  4.057 88.637
+\t (00:10:06) Moving R2 / R_RES400_5.1K / RES400.
+\t (00:10:06) Pick new location for the element(s).
+\i (00:10:07) pick grid 3.311 90.279
+\t (00:10:07) last pick:  2.540 91.440
+\i (00:10:07) pick grid 15.129 79.360
+\t (00:10:07) last pick:  15.240 78.740
+\t (00:10:08) last pick:  15.240 76.200
+\t (00:10:08) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:10:08) Pick new location for the element(s).
+\i (00:10:08) pick grid 18.084 80.130
+\t (00:10:08) last pick:  17.780 81.280
+\i (00:10:10) pick grid 69.982 101.455
+\t (00:10:10) last pick:  71.120 101.600
+\t (00:10:10) last pick:  68.580 96.520
+\t (00:10:10) Moving R18 / R_RES400_10K / RES400.
+\t (00:10:10) Pick new location for the element(s).
+\i (00:10:11) pick grid 40.564 95.032
+\t (00:10:11) last pick:  40.640 93.980
+\i (00:10:15) roam start
+\i (00:10:15) roam x -48
+\i (00:10:15) roam y 16
+\i (00:10:15) roam y 32
+\i (00:10:15) roam x 16
+\i (00:10:15) roam y 32
+\i (00:10:15) roam x 64
+\i (00:10:15) roam y 16
+\i (00:10:15) roam x 32
+\i (00:10:15) roam y 16
+\i (00:10:15) roam x 32
+\i (00:10:15) roam y 16
+\i (00:10:15) roam x 32
+\i (00:10:15) roam y 16
+\i (00:10:17) roam x 16
+\i (00:10:17) roam y 16
+\i (00:10:17) roam x 32
+\i (00:10:17) roam x 32
+\i (00:10:17) roam x 16
+\i (00:10:18) roam end
+\i (00:10:21) color192 
+\i (00:10:25) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:10:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Filmmaskbottom Pin
+\i (00:10:26) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:10:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Filmmaskbottom Pin
+\i (00:11:22) roam start
+\i (00:11:22) roam x -64
+\i (00:11:22) roam y 16
+\i (00:11:22) roam x -48
+\i (00:11:22) roam y 32
+\i (00:11:22) roam x -48
+\i (00:11:22) roam y 16
+\i (00:11:22) roam x -32
+\i (00:11:23) roam y -32
+\i (00:11:23) roam end
+\i (00:11:30) roam start
+\i (00:11:30) roam x 96
+\i (00:11:30) roam y 32
+\i (00:11:30) roam x 80
+\i (00:11:30) roam x 96
+\i (00:11:30) roam x 32
+\i (00:11:30) roam x 16
+\i (00:11:30) roam y -32
+\i (00:11:30) roam x 16
+\i (00:11:30) roam y -48
+\i (00:11:30) roam x 16
+\i (00:11:30) roam y -32
+\i (00:11:30) roam y -48
+\i (00:11:31) roam end
+\i (00:11:32) pick grid 99.913 76.276
+\t (00:11:32) last pick:  99.060 76.200
+\t (00:11:32) last pick:  99.060 76.200
+\t (00:11:32) Moving R9 / R_RES400_22K / RES400.
+\t (00:11:32) Pick new location for the element(s).
+\i (00:11:38) pick grid 53.924 26.562
+\t (00:11:38) last pick:  53.340 25.400
+\i (00:11:38) roam start
+\i (00:11:38) roam x -64
+\i (00:11:38) roam y 32
+\i (00:11:38) roam x -64
+\i (00:11:38) roam y 32
+\i (00:11:39) zoom out 1 
+\i (00:11:39) setwindow pcb
+\i (00:11:39) zoom out 37.353 7.550
+\i (00:11:39) trapsize 1285
+\i (00:11:39) roam x 16
+\i (00:11:39) roam x 32
+\i (00:11:39) roam x -32
+\i (00:11:39) roam x -48
+\i (00:11:39) roam x -48
+\i (00:11:39) roam x -16
+\i (00:11:40) roam end
+\i (00:11:40) zoom in 1 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom in 37.867 30.254
+\i (00:11:40) trapsize 642
+\i (00:11:41) pick grid 54.182 30.768
+\t (00:11:41) last pick:  53.340 30.480
+\t (00:11:41) last pick:  53.340 25.400
+\t (00:11:41) Moving R9 / R_RES400_22K / RES400.
+\t (00:11:41) Pick new location for the element(s).
+\i (00:11:43) prepopup 46.474 33.209
+\i (00:11:43) rotate 
+\t (00:11:43) Spin the element(s).
+\i (00:11:45) iangle -180.000
+\t (00:11:45) last angle:  180.000 Degrees
+\i (00:11:45) prepopup 45.447 33.080
+\i (00:11:47) rotate 
+\t (00:11:47) Spin the element(s).
+\i (00:11:48) iangle -90.000
+\t (00:11:48) last angle:  270.000 Degrees
+\i (00:11:50) pick grid 47.117 37.576
+\t (00:11:50) last pick:  48.260 38.100
+\i (00:11:54) roam start
+\i (00:11:54) roam x -48
+\i (00:11:54) roam x -32
+\i (00:11:54) roam y -16
+\i (00:11:54) roam x -32
+\i (00:11:54) roam y -32
+\i (00:11:54) roam y -32
+\i (00:11:55) roam y -16
+\i (00:11:55) roam y -16
+\i (00:11:55) roam y -16
+\i (00:11:55) roam x -16
+\i (00:11:55) roam x -16
+\i (00:11:55) roam x -16
+\i (00:11:55) roam x -16
+\i (00:11:55) roam x -16
+\i (00:11:56) roam x -16
+\i (00:11:56) roam end
+\i (00:11:57) pick grid 10.891 78.846
+\t (00:11:57) last pick:  10.160 78.740
+\t (00:11:57) last pick:  10.160 76.200
+\t (00:11:57) Moving R12 / R_RES400_22K / RES400.
+\t (00:11:57) Pick new location for the element(s).
+\i (00:11:59) prepopup 53.539 26.177
+\i (00:12:00) rotate 
+\t (00:12:00) Spin the element(s).
+\i (00:12:02) iangle -90.000
+\t (00:12:02) last angle:  270.000 Degrees
+\i (00:12:03) pick grid 47.116 33.242
+\t (00:12:03) last pick:  48.260 33.020
+\i (00:12:06) roam start
+\i (00:12:07) roam x 32
+\i (00:12:07) roam y 16
+\i (00:12:07) roam x 48
+\i (00:12:07) roam y 16
+\i (00:12:07) roam x 48
+\i (00:12:07) roam x 32
+\i (00:12:07) roam y 16
+\i (00:12:07) roam x 32
+\i (00:12:07) roam x 16
+\i (00:12:08) roam x 16
+\i (00:12:08) roam x 16
+\i (00:12:08) roam x 16
+\i (00:12:08) roam end
+\i (00:12:10) pick grid 86.424 75.121
+\t (00:12:10) last pick:  86.360 76.200
+\t (00:12:10) last pick:  86.360 73.660
+\t (00:12:10) Moving R14 / R_RES400_22K / RES400.
+\t (00:12:10) Pick new location for the element(s).
+\i (00:12:11) prepopup 71.523 44.162
+\i (00:12:13) rotate 
+\t (00:12:13) Spin the element(s).
+\i (00:12:14) iangle -90.000
+\t (00:12:14) last angle:  270.000 Degrees
+\i (00:12:16) pick grid 49.428 27.590
+\t (00:12:16) last pick:  48.260 27.940
+\i (00:12:24) pick grid 91.691 79.874
+\t (00:12:24) last pick:  91.440 78.740
+\t (00:12:24) last pick:  91.440 76.200
+\t (00:12:24) Moving R17 / R_RES400_22K / RES400.
+\t (00:12:24) Pick new location for the element(s).
+\i (00:12:25) prepopup 54.566 18.341
+\i (00:12:27) rotate 
+\t (00:12:27) Spin the element(s).
+\i (00:12:29) iangle -90.000
+\t (00:12:29) last angle:  270.000 Degrees
+\i (00:12:30) pick grid 49.428 22.966
+\t (00:12:30) last pick:  48.260 22.860
+\i (00:12:31) pick grid 65.614 25.021
+\t (00:12:31) last pick:  66.040 25.400
+\i (00:12:32) roam start
+\i (00:12:32) roam y 32
+\i (00:12:33) roam y 32
+\i (00:12:33) roam y 32
+\i (00:12:33) roam y 16
+\i (00:12:33) roam end
+\i (00:12:35) pick grid 64.329 10.633
+\t (00:12:35) last pick:  63.500 10.160
+\t (00:12:35) last pick:  63.500 7.620
+\t (00:12:35) Moving R15 / R_RES400_10K / RES400.
+\t (00:12:35) Pick new location for the element(s).
+\i (00:12:37) pick grid 64.715 19.240
+\t (00:12:37) last pick:  63.500 20.320
+\i (00:12:38) pick grid 51.740 20.653
+\t (00:12:38) last pick:  50.800 20.320
+\t (00:12:38) last pick:  48.260 22.860
+\t (00:12:38) Moving R17 / R_RES400_22K / RES400.
+\t (00:12:38) Pick new location for the element(s).
+\i (00:12:38) pick grid 51.997 16.414
+\t (00:12:38) last pick:  50.800 15.240
+\i (00:12:39) pick grid 63.173 23.479
+\t (00:12:39) last pick:  63.500 22.860
+\t (00:12:39) last pick:  63.500 20.320
+\t (00:12:39) Moving R15 / R_RES400_10K / RES400.
+\t (00:12:39) Pick new location for the element(s).
+\i (00:12:40) prepopup 54.438 19.625
+\i (00:12:42) rotate 
+\t (00:12:42) Spin the element(s).
+\i (00:12:44) iangle -90.000
+\t (00:12:44) last angle:  270.000 Degrees
+\i (00:12:46) pick grid 49.556 21.038
+\t (00:12:46) last pick:  50.800 20.320
+\i (00:12:47) pick grid 67.926 23.736
+\t (00:12:47) last pick:  68.580 22.860
+\i (00:12:47) pick grid 56.236 28.104
+\t (00:12:47) last pick:  55.880 27.940
+\t (00:12:47) last pick:  48.260 27.940
+\t (00:12:47) Moving R14 / R_RES400_22K / RES400.
+\t (00:12:47) Pick new location for the element(s).
+\i (00:12:50) pick grid 51.997 25.534
+\t (00:12:50) last pick:  50.800 25.400
+\i (00:12:53) pick grid 55.722 82.314
+\t (00:12:53) last pick:  55.880 81.280
+\t (00:12:53) last pick:  55.880 81.280
+\t (00:12:53) Moving R13 / R_RES400_10K / RES400.
+\t (00:12:53) Pick new location for the element(s).
+\i (00:12:54) prepopup 63.558 28.104
+\i (00:12:55) rotate 
+\t (00:12:55) Spin the element(s).
+\i (00:12:56) iangle 90.000
+\t (00:12:56) last angle:  90.000 Degrees
+\i (00:12:58) pick grid 59.833 29.131
+\t (00:12:58) last pick:  60.960 27.940
+\i (00:12:59) pick grid 57.906 15.258
+\t (00:12:59) last pick:  58.420 15.240
+\t (00:12:59) last pick:  50.800 15.240
+\t (00:12:59) Moving R17 / R_RES400_22K / RES400.
+\t (00:12:59) Pick new location for the element(s).
+\i (00:13:01) pick grid 48.657 13.845
+\t (00:13:01) last pick:  48.260 12.700
+\i (00:13:02) pick grid 55.722 20.396
+\t (00:13:02) last pick:  55.880 20.320
+\t (00:13:02) last pick:  50.800 20.320
+\t (00:13:02) Moving R15 / R_RES400_10K / RES400.
+\t (00:13:02) Pick new location for the element(s).
+\i (00:13:03) pick grid 49.428 17.698
+\t (00:13:03) last pick:  48.260 17.780
+\i (00:13:03) pick grid 54.309 23.993
+\t (00:13:03) last pick:  53.340 22.860
+\t (00:13:03) last pick:  50.800 25.400
+\t (00:13:03) Moving R14 / R_RES400_22K / RES400.
+\t (00:13:03) Pick new location for the element(s).
+\i (00:13:05) pick grid 49.428 22.323
+\t (00:13:05) last pick:  48.260 22.860
+\i (00:13:05) pick grid 57.778 27.204
+\t (00:13:05) last pick:  58.420 27.940
+\t (00:13:05) last pick:  60.960 27.940
+\t (00:13:05) Moving R13 / R_RES400_10K / RES400.
+\t (00:13:05) Pick new location for the element(s).
+\i (00:13:07) pick grid 57.778 26.691
+\t (00:13:07) last pick:  58.420 27.940
+\i (00:13:08) pick grid 56.622 32.343
+\t (00:13:08) last pick:  55.880 33.020
+\t (00:13:08) last pick:  48.260 33.020
+\t (00:13:08) Moving R12 / R_RES400_22K / RES400.
+\t (00:13:08) Pick new location for the element(s).
+\i (00:13:11) pick grid 49.428 32.471
+\t (00:13:11) last pick:  48.260 33.020
+\i (00:13:13) pick grid 64.586 85.140
+\t (00:13:13) last pick:  63.500 86.360
+\t (00:13:13) last pick:  63.500 83.820
+\t (00:13:13) Moving R1 / R_RES400_10K / RES400.
+\t (00:13:13) Pick new location for the element(s).
+\i (00:13:14) pick grid 63.558 79.873
+\t (00:13:14) last pick:  63.500 78.740
+\i (00:13:15) pick grid 46.602 84.498
+\t (00:13:15) last pick:  45.720 83.820
+\t (00:13:15) last pick:  48.260 81.280
+\t (00:13:15) Moving R11 / R_RES400_10K / RES400.
+\t (00:13:15) Pick new location for the element(s).
+\i (00:13:16) pick grid 53.538 46.602
+\t (00:13:16) last pick:  53.340 45.720
+\i (00:13:17) pick grid 56.750 38.509
+\t (00:13:17) last pick:  55.880 38.100
+\t (00:13:17) last pick:  48.260 38.100
+\t (00:13:17) Moving R9 / R_RES400_22K / RES400.
+\t (00:13:17) Pick new location for the element(s).
+\i (00:13:18) pick grid 67.284 50.456
+\t (00:13:18) last pick:  66.040 50.800
+\i (00:13:18) pick grid 54.695 51.997
+\t (00:13:18) last pick:  55.880 50.800
+\t (00:13:18) last pick:  53.340 45.720
+\t (00:13:18) Moving R11 / R_RES400_10K / RES400.
+\t (00:13:18) Pick new location for the element(s).
+\i (00:13:18) prepopup 53.795 44.803
+\i (00:13:19) rotate 
+\t (00:13:19) Spin the element(s).
+\i (00:13:22) iangle -90.000
+\t (00:13:22) last angle:  270.000 Degrees
+\i (00:13:24) pick grid 48.272 36.839
+\t (00:13:24) last pick:  48.260 38.100
+\i (00:13:25) pick grid 71.138 49.685
+\t (00:13:25) last pick:  71.120 50.800
+\t (00:13:25) last pick:  66.040 50.800
+\t (00:13:25) Moving R9 / R_RES400_22K / RES400.
+\t (00:13:25) Pick new location for the element(s).
+\i (00:13:26) pick grid 49.299 43.390
+\t (00:13:26) last pick:  48.260 43.180
+\i (00:13:28) pick grid 65.228 18.212
+\t (00:13:28) last pick:  66.040 17.780
+\i (00:13:34) pick grid 81.414 26.691
+\t (00:13:34) last pick:  81.280 27.940
+\t (00:13:34) last pick:  83.820 33.020
+\t (00:13:34) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:13:34) Pick new location for the element(s).
+\i (00:13:37) pick grid 79.744 34.141
+\t (00:13:37) last pick:  78.740 33.020
+\i (00:13:38) pick grid 86.681 13.845
+\t (00:13:38) last pick:  86.360 12.700
+\t (00:13:38) last pick:  88.900 15.240
+\t (00:13:38) Moving R10 / R_RES400_22K / RES400.
+\t (00:13:38) Pick new location for the element(s).
+\i (00:13:39) prepopup 78.203 14.358
+\i (00:13:40) rotate 
+\t (00:13:40) Spin the element(s).
+\i (00:13:41) iangle -180.000
+\t (00:13:41) last angle:  270.000 Degrees
+\i (00:13:43) pick grid 69.724 17.698
+\t (00:13:43) last pick:  68.580 17.780
+\i (00:13:43) pick grid 88.094 16.928
+\t (00:13:43) last pick:  88.900 17.780
+\i (00:13:44) pick grid 76.404 17.056
+\t (00:13:44) last pick:  76.200 17.780
+\t (00:13:44) last pick:  68.580 17.780
+\t (00:13:44) Moving R10 / R_RES400_22K / RES400.
+\t (00:13:44) Pick new location for the element(s).
+\i (00:13:45) prepopup 82.827 20.524
+\i (00:13:46) rotate 
+\t (00:13:46) Spin the element(s).
+\i (00:13:47) iangle 90.000
+\t (00:13:47) last angle:  0.000 Degrees
+\i (00:13:52) pick grid 91.691 13.716
+\t (00:13:52) last pick:  91.440 12.700
+\i (00:13:53) pick grid 90.535 20.524
+\t (00:13:53) last pick:  91.440 20.320
+\t (00:13:53) last pick:  91.440 12.700
+\t (00:13:53) Moving R10 / R_RES400_22K / RES400.
+\t (00:13:53) Pick new location for the element(s).
+\i (00:13:54) pick grid 85.268 12.431
+\t (00:13:54) last pick:  86.360 12.700
+\i (00:13:57) pick grid 69.724 14.230
+\t (00:13:57) last pick:  68.580 15.240
+\i (00:13:57) roam start
+\i (00:13:57) roam x -128
+\i (00:13:57) roam y 16
+\i (00:13:57) roam x -32
+\i (00:13:57) roam y -16
+\i (00:13:57) roam x -16
+\i (00:13:57) roam y -48
+\i (00:13:57) roam x -32
+\i (00:13:57) roam y -32
+\i (00:13:57) roam x -48
+\i (00:13:57) roam y -32
+\i (00:13:57) roam x -32
+\i (00:13:57) roam y -16
+\i (00:13:57) roam x -32
+\i (00:13:57) roam y -16
+\i (00:13:57) roam x -64
+\i (00:13:57) roam x -32
+\i (00:13:58) roam x -32
+\i (00:13:58) roam y 16
+\i (00:13:58) roam x -32
+\i (00:13:58) roam y 32
+\i (00:13:58) roam y 64
+\i (00:13:58) roam x 32
+\i (00:13:58) roam y 64
+\i (00:13:58) roam x 16
+\i (00:13:58) roam y 48
+\i (00:13:58) roam x 32
+\i (00:13:58) roam y 16
+\i (00:13:58) roam x 16
+\i (00:13:58) roam y 16
+\i (00:13:58) roam x 32
+\i (00:13:58) roam x 16
+\i (00:13:58) roam x 16
+\i (00:13:58) roam x 16
+\i (00:13:58) roam x 16
+\i (00:13:58) roam end
+\i (00:14:02) roam start
+\i (00:14:02) roam y -64
+\i (00:14:02) roam x 16
+\i (00:14:02) roam y -32
+\i (00:14:02) roam y -48
+\i (00:14:02) roam x 16
+\i (00:14:02) roam y -16
+\i (00:14:03) roam y -48
+\i (00:14:03) roam x 16
+\i (00:14:03) roam y -16
+\i (00:14:03) roam y -16
+\i (00:14:03) roam y -16
+\i (00:14:03) roam end
+\i (00:14:05) pick grid 37.738 70.752
+\t (00:14:05) last pick:  38.100 71.120
+\t (00:14:05) last pick:  34.562 77.093
+\t (00:14:05) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:14:05) Pick new location for the element(s).
+\i (00:14:06) prepopup 23.094 49.942
+\i (00:14:07) pick grid 22.965 49.556
+\t (00:14:07) last pick:  22.860 50.800
+\i (00:14:08) pick grid 29.645 46.859
+\t (00:14:08) last pick:  30.480 45.720
+\t (00:14:08) last pick:  22.860 50.800
+\t (00:14:08) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:14:08) Pick new location for the element(s).
+\i (00:14:09) prepopup 29.902 46.602
+\i (00:14:10) rotate 
+\t (00:14:10) Spin the element(s).
+\i (00:14:11) iangle 90.000
+\t (00:14:11) last angle:  90.000 Degrees
+\i (00:14:11) pick grid 24.122 42.491
+\t (00:14:11) last pick:  22.860 43.180
+\i (00:14:12) roam start
+\i (00:14:12) roam y 80
+\i (00:14:12) roam x -16
+\i (00:14:12) roam y 80
+\i (00:14:12) roam y 96
+\i (00:14:12) roam y 64
+\i (00:14:12) roam x 32
+\i (00:14:12) roam y 32
+\i (00:14:12) roam x 48
+\i (00:14:12) roam y 16
+\i (00:14:12) roam x 32
+\i (00:14:12) roam x 32
+\i (00:14:12) roam x 64
+\i (00:14:12) roam x 32
+\i (00:14:12) roam y -32
+\i (00:14:13) roam y -16
+\i (00:14:13) roam x -16
+\i (00:14:13) roam y -32
+\i (00:14:13) roam x -16
+\i (00:14:13) roam y -16
+\i (00:14:13) roam x -48
+\i (00:14:13) roam y -48
+\i (00:14:13) roam x -48
+\i (00:14:13) roam y -48
+\i (00:14:13) roam x -16
+\i (00:14:13) roam y -32
+\i (00:14:13) roam y -16
+\i (00:14:13) roam x -16
+\i (00:14:13) roam x -16
+\i (00:14:13) roam x -16
+\i (00:14:13) roam x -16
+\i (00:14:13) roam y 16
+\i (00:14:14) roam y 16
+\i (00:14:14) roam y 16
+\i (00:14:14) roam y 16
+\i (00:14:14) roam y 16
+\i (00:14:14) roam y 16
+\i (00:14:14) roam x 16
+\i (00:14:14) roam x 16
+\i (00:14:14) roam x 16
+\i (00:14:14) roam x 48
+\i (00:14:14) roam x 48
+\i (00:14:14) roam y 16
+\i (00:14:15) roam x -16
+\i (00:14:15) roam x -16
+\i (00:14:15) roam x 32
+\i (00:14:15) roam x 16
+\i (00:14:16) roam x 16
+\i (00:14:16) roam x 16
+\i (00:14:16) roam end
+\i (00:14:17) pick grid 74.992 29.645
+\t (00:14:17) last pick:  76.200 30.480
+\t (00:14:17) last pick:  78.740 33.020
+\t (00:14:17) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:14:17) Pick new location for the element(s).
+\i (00:14:19) prepopup 78.846 39.922
+\i (00:14:20) rotate 
+\t (00:14:20) Spin the element(s).
+\i (00:14:21) iangle 180.000
+\t (00:14:21) last angle:  90.000 Degrees
+\i (00:14:23) pick grid 74.607 36.711
+\t (00:14:23) last pick:  73.660 35.560
+\i (00:14:26) roam start
+\i (00:14:26) roam x -64
+\i (00:14:26) roam x -64
+\i (00:14:26) roam x -32
+\i (00:14:26) roam x -32
+\i (00:14:27) roam x -48
+\i (00:14:27) roam x -32
+\i (00:14:27) roam end
+\i (00:14:28) pick grid 33.628 21.295
+\t (00:14:28) last pick:  33.020 20.320
+\t (00:14:28) last pick:  20.320 17.780
+\t (00:14:28) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:14:28) Pick new location for the element(s).
+\i (00:14:30) pick grid 13.974 16.542
+\t (00:14:30) last pick:  15.240 17.780
+\i (00:14:30) pick grid 10.762 11.532
+\t (00:14:30) last pick:  10.160 12.700
+\i (00:14:32) roam start
+\i (00:14:32) roam x 80
+\i (00:14:32) roam y 16
+\i (00:14:32) roam x 32
+\i (00:14:32) roam x 32
+\i (00:14:32) roam x 32
+\i (00:14:33) roam x 16
+\i (00:14:33) roam y 16
+\i (00:14:33) roam x 32
+\i (00:14:33) roam x 48
+\i (00:14:33) roam x 32
+\i (00:14:33) roam y -16
+\i (00:14:33) roam y -16
+\i (00:14:33) roam x -32
+\i (00:14:33) roam x -16
+\i (00:14:33) roam end
+\i (00:14:34) drag_start grid 49.556 46.217
+\i (00:14:35) drag_stop 61.503 10.119
+\i (00:14:35) pick grid 53.410 19.240
+\t (00:14:35) last pick:  53.340 20.320
+\t (00:14:35) Moving R17 / R_RES400_22K / RES400.
+\t (00:14:35) Moving R15 / R_RES400_10K / RES400.
+\t (00:14:35) Moving R14 / R_RES400_22K / RES400.
+\t (00:14:35) Moving R12 / R_RES400_22K / RES400.
+\t (00:14:35) Moving R13 / R_RES400_10K / RES400.
+\t (00:14:35) Moving R9 / R_RES400_22K / RES400.
+\t (00:14:35) Moving R11 / R_RES400_10K / RES400.
+\t (00:14:35) Pick new location for the element(s).
+\i (00:14:39) pick grid 44.289 20.139
+\t (00:14:39) last pick:  43.180 20.320
+\i (00:14:39) pick grid 59.962 22.965
+\t (00:14:39) last pick:  60.960 22.860
+\i (00:14:44) roam start
+\i (00:14:44) roam x -64
+\i (00:14:44) roam y -32
+\i (00:14:44) roam x -48
+\i (00:14:44) roam y -16
+\i (00:14:44) roam x -48
+\i (00:14:44) roam x -64
+\i (00:14:44) roam x -16
+\i (00:14:44) roam y 16
+\i (00:14:44) roam x -16
+\i (00:14:44) roam y 16
+\i (00:14:44) roam y 16
+\i (00:14:44) roam x 32
+\i (00:14:44) roam y 32
+\i (00:14:44) roam x 64
+\i (00:14:44) roam x 32
+\i (00:14:44) roam x 32
+\i (00:14:45) roam x 16
+\i (00:14:45) roam x 16
+\i (00:14:45) roam x -16
+\i (00:14:45) roam y -16
+\i (00:14:45) roam y -16
+\i (00:14:45) roam end
+\i (00:14:47) pick grid 29.517 49.428
+\t (00:14:47) last pick:  30.480 48.260
+\t (00:14:47) last pick:  22.860 43.180
+\t (00:14:47) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:14:47) Pick new location for the element(s).
+\i (00:14:49) pick grid 26.820 49.428
+\t (00:14:49) last pick:  27.940 48.260
+\i (00:14:50) roam start
+\i (00:14:50) roam x -96
+\i (00:14:50) roam y -64
+\i (00:14:50) roam x -128
+\i (00:14:50) roam y -16
+\i (00:14:50) roam x -64
+\i (00:14:50) roam x -48
+\i (00:14:50) roam x -32
+\i (00:14:50) roam x 16
+\i (00:14:50) roam y -16
+\i (00:14:50) roam x 32
+\i (00:14:50) roam y -16
+\i (00:14:50) roam x 32
+\i (00:14:50) roam y -16
+\i (00:14:50) roam x 16
+\i (00:14:50) roam x 32
+\i (00:14:50) roam y -16
+\i (00:14:51) roam x 32
+\i (00:14:51) roam y -16
+\i (00:14:51) roam x 16
+\i (00:14:51) roam y -16
+\i (00:14:51) roam x 16
+\i (00:14:51) roam y -16
+\i (00:14:51) roam x 16
+\i (00:14:51) roam y -16
+\i (00:14:51) roam x 32
+\i (00:14:51) roam y -16
+\i (00:14:51) roam y -16
+\i (00:14:51) roam x 16
+\i (00:14:53) roam x 16
+\i (00:14:53) roam end
+\i (00:14:53) pick grid 32.471 88.094
+\t (00:14:53) last pick:  33.020 88.900
+\t (00:14:53) last pick:  31.537 88.726
+\t (00:14:53) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:14:53) Pick new location for the element(s).
+\i (00:14:54) pick grid 14.230 50.712
+\t (00:14:54) last pick:  15.240 50.800
+\i (00:14:55) pick grid 15.514 50.070
+\t (00:14:55) last pick:  15.240 50.800
+\t (00:14:55) last pick:  15.240 50.800
+\t (00:14:55) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:14:55) Pick new location for the element(s).
+\i (00:14:56) pick grid 17.827 46.987
+\t (00:14:56) last pick:  17.780 45.720
+\i (00:14:57) pick grid 18.726 46.216
+\t (00:14:57) last pick:  17.780 45.720
+\t (00:14:57) last pick:  17.780 45.720
+\t (00:14:57) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:14:57) Pick new location for the element(s).
+\i (00:14:58) pick grid 19.111 49.813
+\t (00:14:58) last pick:  20.320 50.800
+\i (00:15:03) roam start
+\i (00:15:04) roam x 16
+\i (00:15:04) roam y 64
+\i (00:15:04) roam x 32
+\i (00:15:04) roam x 32
+\i (00:15:04) roam y 16
+\i (00:15:04) roam x 48
+\i (00:15:04) roam x 32
+\i (00:15:04) roam x 32
+\i (00:15:04) roam x 32
+\i (00:15:05) roam end
+\i (00:15:05) pick grid 65.485 82.700
+\t (00:15:05) last pick:  66.040 83.820
+\t (00:15:05) last pick:  63.500 78.740
+\t (00:15:05) Moving R1 / R_RES400_10K / RES400.
+\t (00:15:05) Pick new location for the element(s).
+\i (00:15:06) pick grid 54.566 56.494
+\t (00:15:06) last pick:  53.340 55.880
+\i (00:15:06) roam start
+\i (00:15:06) roam x 144
+\i (00:15:06) roam y -16
+\i (00:15:07) roam x 32
+\i (00:15:07) roam y -32
+\i (00:15:07) roam x -16
+\i (00:15:07) roam y -16
+\i (00:15:07) roam x -64
+\i (00:15:07) roam y -16
+\i (00:15:07) roam x -32
+\i (00:15:07) roam x -16
+\i (00:15:07) roam y -32
+\i (00:15:07) roam x -80
+\i (00:15:07) roam y 32
+\i (00:15:07) roam x -32
+\i (00:15:07) roam y 32
+\i (00:15:07) roam x -32
+\i (00:15:07) roam y 48
+\i (00:15:07) roam x -48
+\i (00:15:07) roam y 32
+\i (00:15:07) roam x -32
+\i (00:15:07) roam y 16
+\i (00:15:07) roam x -32
+\i (00:15:07) roam y 16
+\i (00:15:07) roam x -32
+\i (00:15:07) roam x -16
+\i (00:15:07) roam y 16
+\i (00:15:07) roam x -48
+\i (00:15:07) roam x -32
+\i (00:15:07) roam y 16
+\i (00:15:07) roam y 16
+\i (00:15:07) roam x 32
+\i (00:15:07) roam y 16
+\i (00:15:07) roam x 48
+\i (00:15:07) roam x 32
+\i (00:15:07) roam x 16
+\i (00:15:08) roam end
+\i (00:15:09) pick grid 33.114 51.227
+\t (00:15:09) last pick:  33.020 50.800
+\t (00:15:09) last pick:  27.940 48.260
+\t (00:15:09) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:15:09) Pick new location for the element(s).
+\i (00:15:10) pick grid 25.406 44.419
+\t (00:15:10) last pick:  25.400 43.180
+\i (00:15:11) pick grid 19.240 52.383
+\t (00:15:11) last pick:  20.320 53.340
+\t (00:15:11) last pick:  20.320 50.800
+\t (00:15:11) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:15:11) Pick new location for the element(s).
+\i (00:15:12) pick grid 16.543 45.446
+\t (00:15:12) last pick:  17.780 45.720
+\i (00:15:13) pick grid 54.824 58.421
+\t (00:15:13) last pick:  55.880 58.420
+\t (00:15:13) last pick:  53.340 55.880
+\t (00:15:13) Moving R1 / R_RES400_10K / RES400.
+\t (00:15:13) Pick new location for the element(s).
+\i (00:15:13) prepopup 40.436 48.786
+\i (00:15:14) rotate 
+\t (00:15:14) Spin the element(s).
+\i (00:15:19) iangle 0.000
+\t (00:15:19) last angle:  0.000 Degrees
+\i (00:15:20) pick grid 37.996 46.988
+\t (00:15:20) last pick:  38.100 45.720
+\i (00:15:21) pick grid 54.053 48.658
+\t (00:15:21) last pick:  53.340 48.260
+\i (00:15:22) roam start
+\i (00:15:22) roam x -80
+\i (00:15:22) roam y 48
+\i (00:15:22) roam y 64
+\i (00:15:22) roam x 16
+\i (00:15:22) roam y 16
+\i (00:15:22) roam x 32
+\i (00:15:22) roam x 32
+\i (00:15:22) roam x 32
+\i (00:15:23) roam x 32
+\i (00:15:23) roam y -32
+\i (00:15:23) roam x 16
+\i (00:15:23) roam y -16
+\i (00:15:23) roam y -32
+\i (00:15:23) roam y -32
+\i (00:15:23) roam y -32
+\i (00:15:23) roam x -48
+\i (00:15:23) roam x -32
+\i (00:15:23) roam x -32
+\i (00:15:23) roam x -32
+\i (00:15:23) roam x -16
+\i (00:15:23) roam y 16
+\i (00:15:23) roam x -32
+\i (00:15:23) roam x -32
+\i (00:15:23) roam y 16
+\i (00:15:23) roam y 32
+\i (00:15:23) roam x -16
+\i (00:15:23) roam y 16
+\i (00:15:24) roam x 32
+\i (00:15:24) roam x 32
+\i (00:15:24) roam x 16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam x 16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -16
+\i (00:15:24) roam y -32
+\i (00:15:24) roam y -32
+\i (00:15:24) roam y -16
+\i (00:15:24) roam x 16
+\i (00:15:25) roam end
+\i (00:15:33) roam start
+\i (00:15:33) roam x 96
+\i (00:15:33) roam y 64
+\i (00:15:33) roam x 64
+\i (00:15:33) roam y 16
+\i (00:15:33) roam x 64
+\i (00:15:33) roam x 32
+\i (00:15:33) roam x 32
+\i (00:15:33) roam x 32
+\i (00:15:33) roam x 48
+\i (00:15:33) roam y -32
+\i (00:15:33) roam x 16
+\i (00:15:33) roam y -16
+\i (00:15:34) roam end
+\i (00:15:35) roam start
+\i (00:15:35) roam x -80
+\i (00:15:35) roam x -80
+\i (00:15:35) roam y -16
+\i (00:15:35) roam x -16
+\i (00:15:35) roam y -32
+\i (00:15:35) roam x -16
+\i (00:15:35) roam y -48
+\i (00:15:35) roam y -32
+\i (00:15:35) roam y -32
+\i (00:15:36) roam y -16
+\i (00:15:36) roam x -48
+\i (00:15:36) roam x -48
+\i (00:15:36) roam x -32
+\i (00:15:36) roam y 16
+\i (00:15:36) roam x -48
+\i (00:15:36) roam y 16
+\i (00:15:36) roam x -32
+\i (00:15:36) roam y 32
+\i (00:15:36) roam x -32
+\i (00:15:36) roam y 16
+\i (00:15:36) roam y 16
+\i (00:15:36) roam x -16
+\i (00:15:37) roam end
+\i (00:15:38) pick grid 17.185 96.959
+\t (00:15:38) last pick:  17.780 96.520
+\t (00:15:38) last pick:  17.780 93.980
+\t (00:15:38) Moving R8 / R_RES400_1K / RES400.
+\t (00:15:38) Pick new location for the element(s).
+\i (00:15:41) pick grid 13.588 30.416
+\t (00:15:41) last pick:  12.700 30.480
+\i (00:15:41) roam start
+\i (00:15:41) roam x 48
+\i (00:15:41) roam y 32
+\i (00:15:42) roam x 16
+\i (00:15:42) roam y 16
+\i (00:15:42) roam x 32
+\i (00:15:42) roam y 32
+\i (00:15:42) roam x 16
+\i (00:15:42) roam y 32
+\i (00:15:42) roam x 16
+\i (00:15:42) roam y 32
+\i (00:15:42) roam x 16
+\i (00:15:42) roam y 48
+\i (00:15:42) roam y 32
+\i (00:15:43) roam end
+\i (00:15:45) roam start
+\i (00:15:45) roam x -80
+\i (00:15:45) roam y -64
+\i (00:15:45) roam x -96
+\i (00:15:45) roam y -64
+\i (00:15:45) roam x -48
+\i (00:15:45) roam y -16
+\i (00:15:45) roam x -32
+\i (00:15:45) roam y -32
+\i (00:15:45) roam x 32
+\i (00:15:46) roam x 32
+\i (00:15:46) roam y 16
+\i (00:15:46) roam x 16
+\i (00:15:46) roam x 16
+\i (00:15:46) roam x 32
+\i (00:15:46) roam x 16
+\i (00:15:46) roam y -16
+\i (00:15:46) roam end
+\i (00:15:47) pick grid 17.699 84.755
+\t (00:15:47) last pick:  17.780 83.820
+\t (00:15:47) last pick:  17.780 81.280
+\t (00:15:47) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:15:47) Pick new location for the element(s).
+\i (00:15:49) prepopup 23.222 30.288
+\i (00:15:50) rotate 
+\t (00:15:50) Spin the element(s).
+\i (00:15:51) iangle 90.000
+\t (00:15:51) last angle:  90.000 Degrees
+\i (00:15:52) pick grid 31.829 33.885
+\t (00:15:52) last pick:  33.020 33.020
+\i (00:15:53) pick grid 57.650 58.549
+\t (00:15:53) last pick:  58.420 58.420
+\i (00:15:53) roam start
+\i (00:15:53) roam x 16
+\i (00:15:53) roam y 64
+\i (00:15:53) roam x 16
+\i (00:15:53) roam y 32
+\i (00:15:53) roam x 32
+\i (00:15:53) roam y 16
+\i (00:15:54) roam x 32
+\i (00:15:54) roam x 16
+\i (00:15:54) roam y -64
+\i (00:15:54) roam x 16
+\i (00:15:54) roam y -32
+\i (00:15:54) roam end
+\i (00:15:54) pick grid 61.375 56.108
+\t (00:15:54) last pick:  60.960 55.880
+\i (00:15:55) pick grid 31.059 71.266
+\t (00:15:55) last pick:  30.480 71.120
+\t (00:15:55) last pick:  24.199 77.093
+\t (00:15:55) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:15:55) Pick new location for the element(s).
+\i (00:15:57) pick grid 59.577 57.392
+\t (00:15:57) last pick:  58.420 58.420
+\i (00:15:57) roam start
+\i (00:15:57) roam x 16
+\i (00:15:57) roam y 64
+\i (00:15:57) roam x 32
+\i (00:15:57) roam y 16
+\i (00:15:57) roam x 48
+\i (00:15:57) roam y 16
+\i (00:15:57) roam x 32
+\i (00:15:57) roam y 16
+\i (00:15:58) roam x 32
+\i (00:15:58) roam x 32
+\i (00:15:58) roam x 16
+\i (00:15:59) roam y -16
+\i (00:15:59) roam x 16
+\i (00:15:59) roam end
+\i (00:16:00) pick grid 63.430 56.879
+\t (00:16:00) last pick:  63.500 55.880
+\t (00:16:00) last pick:  58.420 58.420
+\t (00:16:00) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:16:00) Pick new location for the element(s).
+\i (00:16:00) prepopup 60.347 56.108
+\i (00:16:01) rotate 
+\t (00:16:01) Spin the element(s).
+\i (00:16:03) iangle 90.000
+\t (00:16:03) last angle:  90.000 Degrees
+\i (00:16:03) pick grid 58.421 49.428
+\t (00:16:03) last pick:  58.420 48.260
+\i (00:16:04) pick grid 59.705 39.023
+\t (00:16:04) last pick:  60.960 38.100
+\i (00:16:06) pick grid 64.073 52.383
+\t (00:16:06) last pick:  63.500 53.340
+\t (00:16:06) last pick:  58.420 48.260
+\t (00:16:06) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:16:06) Pick new location for the element(s).
+\i (00:16:08) pick grid 72.423 48.015
+\t (00:16:08) last pick:  73.660 48.260
+\i (00:16:08) pick grid 60.091 30.416
+\t (00:16:08) last pick:  60.960 30.480
+\i (00:16:09) roam start
+\i (00:16:09) roam x -16
+\i (00:16:09) roam y -80
+\i (00:16:09) roam x -48
+\i (00:16:09) roam y -32
+\i (00:16:09) roam x -32
+\i (00:16:09) roam y -16
+\i (00:16:09) roam x -16
+\i (00:16:09) roam y -48
+\i (00:16:10) roam x -16
+\i (00:16:10) roam y -16
+\i (00:16:10) roam x -16
+\i (00:16:10) roam x -16
+\i (00:16:10) roam x -32
+\i (00:16:10) roam x -16
+\i (00:16:10) roam y 16
+\i (00:16:10) roam x -16
+\i (00:16:10) roam y 16
+\i (00:16:10) roam x -16
+\i (00:16:10) roam x -16
+\i (00:16:10) roam y 16
+\i (00:16:11) roam end
+\i (00:16:29) roam start
+\i (00:16:29) roam x -64
+\i (00:16:29) roam x -32
+\i (00:16:29) roam x -32
+\i (00:16:30) roam x 16
+\i (00:16:30) roam x 16
+\i (00:16:30) roam x 16
+\i (00:16:30) roam x 16
+\i (00:16:30) roam x 16
+\i (00:16:30) roam x 32
+\i (00:16:30) roam x 16
+\i (00:16:31) roam x 16
+\i (00:16:31) roam x 80
+\i (00:16:31) roam y 16
+\i (00:16:31) roam x 128
+\i (00:16:31) roam y 16
+\i (00:16:31) roam x 64
+\i (00:16:31) roam x 16
+\i (00:16:31) roam y 16
+\i (00:16:31) roam x 16
+\i (00:16:31) roam end
+\i (00:16:32) pick grid 77.304 73.450
+\t (00:16:32) last pick:  76.200 73.660
+\t (00:16:32) last pick:  77.790 69.384
+\t (00:16:32) Moving R3 / R_RES400_10K / RES400.
+\t (00:16:32) Pick new location for the element(s).
+\i (00:16:35) prepopup 57.778 46.987
+\i (00:16:38) rotate 
+\t (00:16:38) Spin the element(s).
+\i (00:16:39) iangle 90.000
+\t (00:16:39) last angle:  90.000 Degrees
+\i (00:16:40) pick grid 54.566 54.823
+\t (00:16:40) last pick:  53.340 55.880
+\i (00:16:40) pick grid 56.236 48.786
+\t (00:16:40) last pick:  55.880 48.260
+\i (00:16:43) pick grid 83.598 81.800
+\t (00:16:43) last pick:  83.820 81.280
+\t (00:16:43) last pick:  83.820 81.280
+\t (00:16:43) Moving R6 / R_RES400_10K / RES400.
+\t (00:16:43) Pick new location for the element(s).
+\i (00:16:43) pick grid 64.201 39.151
+\t (00:16:43) last pick:  63.500 38.100
+\i (00:16:46) roam start
+\i (00:16:46) roam x -32
+\i (00:16:46) roam y -16
+\i (00:16:47) roam x -32
+\i (00:16:47) roam x -32
+\i (00:16:47) roam x -32
+\i (00:16:47) roam x -16
+\i (00:16:47) roam x -16
+\i (00:16:47) roam x -16
+\i (00:16:47) roam x -16
+\i (00:16:48) roam x -16
+\i (00:16:48) roam x -16
+\i (00:16:48) roam x -32
+\i (00:16:48) roam x -32
+\i (00:16:48) roam y -16
+\i (00:16:48) roam x -16
+\i (00:16:48) roam y -16
+\i (00:16:48) roam y -16
+\i (00:16:48) roam x -16
+\i (00:16:48) roam y -16
+\i (00:16:48) roam x -16
+\i (00:16:48) roam y -16
+\i (00:16:48) roam y -16
+\i (00:16:48) roam x -16
+\i (00:16:48) roam y -16
+\i (00:16:48) roam x -16
+\i (00:16:48) roam end
+\i (00:16:49) pick grid 6.908 89.636
+\t (00:16:49) last pick:  7.620 88.900
+\t (00:16:49) last pick:  7.384 88.637
+\t (00:16:49) Moving R4 / R_RES400_1K / RES400.
+\t (00:16:49) Pick new location for the element(s).
+\i (00:16:50) pick grid 62.146 84.369
+\t (00:16:50) last pick:  60.960 83.820
+\i (00:16:51) roam start
+\i (00:16:51) roam x 128
+\i (00:16:51) roam y 112
+\i (00:16:51) roam x 80
+\i (00:16:51) roam y 48
+\i (00:16:51) roam x 48
+\i (00:16:51) roam y 32
+\i (00:16:51) roam x 48
+\i (00:16:51) roam y 32
+\i (00:16:51) roam x 16
+\i (00:16:51) roam y 16
+\i (00:16:51) roam x 32
+\i (00:16:51) roam y 32
+\i (00:16:51) roam x 32
+\i (00:16:51) roam y -32
+\i (00:16:51) roam y -32
+\i (00:16:51) roam y -48
+\i (00:16:51) roam end
+\i (00:16:52) pick grid 61.761 87.710
+\t (00:16:52) last pick:  60.960 88.900
+\t (00:16:52) last pick:  60.960 83.820
+\t (00:16:52) Moving R4 / R_RES400_1K / RES400.
+\t (00:16:52) Pick new location for the element(s).
+\i (00:16:54) pick grid 90.150 49.172
+\t (00:16:54) last pick:  88.900 48.260
+\i (00:16:55) roam start
+\i (00:16:55) roam x -16
+\i (00:16:55) roam y 80
+\i (00:16:55) roam x -32
+\i (00:16:55) roam y 32
+\i (00:16:55) roam x -32
+\i (00:16:55) roam y 16
+\i (00:16:55) roam x -32
+\i (00:16:55) roam x -48
+\i (00:16:55) roam y -16
+\i (00:16:55) roam x -32
+\i (00:16:55) roam x -48
+\i (00:16:55) roam y -16
+\i (00:16:55) roam x -32
+\i (00:16:55) roam x -32
+\i (00:16:55) roam y -16
+\i (00:16:55) roam x -16
+\i (00:16:55) roam y -48
+\i (00:16:55) roam y -32
+\i (00:16:55) roam y -32
+\i (00:16:55) roam x 16
+\i (00:16:55) roam y -32
+\i (00:16:56) roam y -16
+\i (00:16:56) roam x -16
+\i (00:16:56) roam x -16
+\i (00:16:56) roam x -16
+\i (00:16:56) roam y 16
+\i (00:16:59) roam end
+\i (00:17:13) roam start
+\i (00:17:13) roam x 32
+\i (00:17:13) roam x -16
+\i (00:17:13) roam end
+\i (00:17:14) drag_start grid 55.980 92.719
+\i (00:17:16) drag_stop 1.769 97.729
+\i (00:17:16) pick grid 60.990 96.059
+\t (00:17:16) last pick:  60.960 96.520
+\t (00:17:16) Moving R2 / R_RES400_5.1K / RES400.
+\t (00:17:16) Moving R5 / R_RES400_1K / RES400.
+\t (00:17:16) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:17:16) Moving R18 / R_RES400_10K / RES400.
+\t (00:17:16) Pick new location for the element(s).
+\i (00:17:17) pick grid 72.422 94.775
+\t (00:17:17) last pick:  73.660 93.980
+\i (00:17:18) roam start
+\i (00:17:18) roam x -32
+\i (00:17:18) roam x -32
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:19) roam x 16
+\i (00:17:20) roam end
+\i (00:17:21) pick grid 69.854 19.368
+\t (00:17:21) last pick:  71.120 20.320
+\i (00:17:22) pick grid 17.314 91.948
+\t (00:17:22) last pick:  17.780 91.440
+\t (00:17:22) last pick:  15.240 88.900
+\t (00:17:22) Moving R2 / R_RES400_5.1K / RES400.
+\t (00:17:23) Pick new location for the element(s).
+\i (00:17:24) prepopup 67.541 55.594
+\i (00:17:25) rotate 
+\t (00:17:25) Spin the element(s).
+\i (00:17:28) iangle -90.000
+\t (00:17:28) last angle:  270.000 Degrees
+\i (00:17:29) pick grid 64.715 61.246
+\t (00:17:29) last pick:  63.500 60.960
+\i (00:17:30) pick grid 78.075 91.435
+\t (00:17:30) last pick:  78.740 91.440
+\i (00:17:31) roam start
+\i (00:17:31) roam y 64
+\i (00:17:31) roam y 32
+\i (00:17:32) roam end
+\i (00:17:34) roam start
+\i (00:17:34) roam x -16
+\i (00:17:34) roam y -16
+\i (00:17:34) roam x -16
+\i (00:17:34) roam y -32
+\i (00:17:35) roam end
+\i (00:17:39) pick grid 73.322 74.735
+\t (00:17:39) last pick:  73.660 73.660
+\t (00:17:39) last pick:  71.120 71.120
+\t (00:17:39) Moving R16 / R_RES400_10K / RES400.
+\t (00:17:39) Pick new location for the element(s).
+\i (00:17:47) pick grid 67.541 16.157
+\t (00:17:47) last pick:  68.580 15.240
+\i (00:17:53) pick grid 26.177 90.921
+\t (00:17:53) last pick:  25.400 91.440
+\t (00:17:53) last pick:  25.400 88.900
+\t (00:17:53) Moving R5 / R_RES400_1K / RES400.
+\t (00:17:53) Pick new location for the element(s).
+\i (00:17:54) pick grid 74.863 76.533
+\t (00:17:54) last pick:  73.660 76.200
+\i (00:17:55) roam start
+\i (00:17:55) roam x -64
+\i (00:17:55) roam y 48
+\i (00:17:55) roam x 96
+\i (00:17:55) roam y 32
+\i (00:17:55) roam x 96
+\i (00:17:55) roam x 48
+\i (00:17:55) roam x 32
+\i (00:17:56) roam y -32
+\i (00:17:56) roam end
+\i (00:17:59) pick grid 72.680 81.543
+\t (00:17:59) last pick:  73.660 81.280
+\t (00:17:59) last pick:  73.660 76.200
+\t (00:17:59) Moving R5 / R_RES400_1K / RES400.
+\t (00:17:59) Pick new location for the element(s).
+\i (00:18:00) pick grid 95.160 48.529
+\t (00:18:00) last pick:  93.980 48.260
+\i (00:18:01) roam start
+\i (00:18:01) roam y -96
+\i (00:18:01) roam y -16
+\i (00:18:02) roam y -16
+\i (00:18:02) roam y -32
+\i (00:18:02) roam x -48
+\i (00:18:02) roam x -48
+\i (00:18:02) roam y -32
+\i (00:18:02) roam end
+\i (00:18:04) pick grid 34.141 92.334
+\t (00:18:04) last pick:  33.020 91.440
+\t (00:18:04) last pick:  35.560 88.900
+\t (00:18:04) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:18:04) Pick new location for the element(s).
+\i (00:18:05) pick grid 77.561 84.369
+\t (00:18:05) last pick:  78.740 83.820
+\i (00:18:06) roam start
+\i (00:18:06) roam x -80
+\i (00:18:06) roam y 32
+\i (00:18:06) roam x -16
+\i (00:18:06) roam y 32
+\i (00:18:06) roam x -16
+\i (00:18:06) roam y 16
+\i (00:18:06) roam end
+\i (00:18:10) roam start
+\i (00:18:10) roam x -128
+\i (00:18:10) roam x -64
+\i (00:18:10) roam x -80
+\i (00:18:10) roam y 16
+\i (00:18:11) roam x -96
+\i (00:18:11) roam y 32
+\i (00:18:11) roam x -64
+\i (00:18:11) roam x -16
+\i (00:18:11) roam y 16
+\i (00:18:11) roam x -32
+\i (00:18:11) roam x 32
+\i (00:18:11) roam x 32
+\i (00:18:11) roam x 16
+\i (00:18:11) roam y 16
+\i (00:18:11) roam x 32
+\i (00:18:11) roam y 64
+\i (00:18:11) roam x 32
+\i (00:18:11) roam y 64
+\i (00:18:11) roam x 16
+\i (00:18:11) roam y 48
+\i (00:18:11) roam x 16
+\i (00:18:11) roam y 32
+\i (00:18:11) roam x 48
+\i (00:18:11) roam y 16
+\i (00:18:11) roam x 16
+\i (00:18:11) roam y 16
+\i (00:18:11) roam x 48
+\i (00:18:11) roam y 16
+\i (00:18:11) roam x 32
+\i (00:18:11) roam x 16
+\i (00:18:11) roam x 16
+\i (00:18:11) roam x 16
+\i (00:18:11) roam x 32
+\i (00:18:11) roam x 16
+\i (00:18:11) roam x 16
+\i (00:18:11) roam y -16
+\i (00:18:11) roam x 16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam y -16
+\i (00:18:12) roam x 16
+\i (00:18:12) roam y -16
+\i (00:18:13) roam x 16
+\i (00:18:13) roam y -16
+\i (00:18:14) roam y -16
+\i (00:18:14) roam x 16
+\i (00:18:14) roam y -32
+\i (00:18:14) roam x 16
+\i (00:18:14) roam y -16
+\i (00:18:14) roam x 16
+\i (00:18:14) roam y -48
+\i (00:18:14) roam y -32
+\i (00:18:14) roam x 16
+\i (00:18:14) roam y -32
+\i (00:18:14) roam y -48
+\i (00:18:14) roam y -48
+\i (00:18:14) roam x -64
+\i (00:18:14) roam y -64
+\i (00:18:14) roam x -96
+\i (00:18:14) roam y -48
+\i (00:18:14) roam x -48
+\i (00:18:14) roam y -16
+\i (00:18:14) roam y -16
+\i (00:18:14) roam y -16
+\i (00:18:14) roam x 16
+\i (00:18:14) roam x 16
+\i (00:18:14) roam x -32
+\i (00:18:14) roam x -48
+\i (00:18:14) roam x -96
+\i (00:18:14) roam x -80
+\i (00:18:14) roam x -128
+\i (00:18:14) roam y 16
+\i (00:18:14) roam x -80
+\i (00:18:14) roam x -16
+\i (00:18:14) roam y 16
+\i (00:18:14) roam y 16
+\i (00:18:14) roam x -16
+\i (00:18:14) roam y 32
+\i (00:18:15) roam y 64
+\i (00:18:15) roam y 80
+\i (00:18:15) roam x 48
+\i (00:18:15) roam y 128
+\i (00:18:15) roam x 144
+\i (00:18:15) roam y 160
+\i (00:18:15) roam x 128
+\i (00:18:15) roam y 96
+\i (00:18:15) roam x 112
+\i (00:18:15) roam y 80
+\i (00:18:15) roam x 64
+\i (00:18:15) roam y 64
+\i (00:18:15) roam x 32
+\i (00:18:15) roam y 32
+\i (00:18:15) roam x 32
+\i (00:18:15) roam y 48
+\i (00:18:15) roam x 48
+\i (00:18:15) roam y 16
+\i (00:18:15) roam x 64
+\i (00:18:15) roam x 48
+\i (00:18:15) roam x 32
+\i (00:18:15) roam x 16
+\i (00:18:15) roam y -16
+\i (00:18:15) roam x 32
+\i (00:18:15) roam y -16
+\i (00:18:15) roam x 32
+\i (00:18:15) roam y -48
+\i (00:18:15) roam x 16
+\i (00:18:15) roam y -32
+\i (00:18:15) roam x 16
+\i (00:18:15) roam y -32
+\i (00:18:15) roam x 16
+\i (00:18:15) roam y -16
+\i (00:18:15) roam y -16
+\i (00:18:15) roam y -16
+\i (00:18:15) roam y -16
+\i (00:18:15) roam x -16
+\i (00:18:15) roam y -16
+\i (00:18:15) roam x -32
+\i (00:18:15) roam y -32
+\i (00:18:15) roam x -48
+\i (00:18:15) roam y -16
+\i (00:18:15) roam x -16
+\i (00:18:15) roam y -16
+\i (00:18:15) roam x -16
+\i (00:18:16) roam end
+\i (00:18:18) roam start
+\i (00:18:19) roam y -80
+\i (00:18:19) roam x -16
+\i (00:18:19) roam y -32
+\i (00:18:19) roam y -48
+\i (00:18:19) roam x -16
+\i (00:18:19) roam y -32
+\i (00:18:19) roam end
+\i (00:18:20) pick grid 80.644 84.626
+\t (00:18:20) last pick:  81.280 83.820
+\t (00:18:20) last pick:  78.740 83.820
+\t (00:18:20) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:18:20) Pick new location for the element(s).
+\i (00:18:23) pick grid 90.279 34.784
+\t (00:18:23) last pick:  91.440 35.560
+\i (00:18:24) roam start
+\i (00:18:24) roam x -32
+\i (00:18:24) roam x -32
+\i (00:18:24) roam y 16
+\i (00:18:26) roam x -16
+\i (00:18:27) roam x -16
+\i (00:18:27) roam end
+\i (00:18:36) roam start
+\i (00:18:36) roam y 64
+\i (00:18:36) roam y 64
+\i (00:18:36) roam y 32
+\i (00:18:36) roam y 48
+\i (00:18:36) roam y 32
+\i (00:18:36) roam y 32
+\i (00:18:37) roam y -16
+\i (00:18:37) roam y -32
+\i (00:18:37) roam y -32
+\i (00:18:37) roam end
+\i (00:18:38) zoom in 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom in 59.320 72.936
+\i (00:18:38) trapsize 321
+\i (00:18:38) zoom in 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom in 59.321 72.936
+\i (00:18:38) trapsize 161
+\i (00:18:38) zoom in 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom in 59.321 72.936
+\i (00:18:38) trapsize 80
+\i (00:18:38) zoom out 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom out 58.101 72.920
+\i (00:18:38) trapsize 161
+\i (00:18:38) zoom out 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom out 58.100 72.888
+\i (00:18:38) trapsize 321
+\i (00:18:38) zoom out 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom out 57.972 72.823
+\i (00:18:38) trapsize 642
+\i (00:18:38) zoom out 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom out 57.973 72.824
+\i (00:18:38) trapsize 1285
+\i (00:18:39) drag_start grid 54.376 97.982
+\i (00:18:40) drag_stop 59.771 103.891
+\t (00:18:40) last pick:  53.340 91.440
+\t (00:18:40) Moving R18 / R_RES400_10K / RES400.
+\t (00:18:40) Pick new location for the element(s).
+\i (00:18:42) pick grid 57.202 12.173
+\t (00:18:42) last pick:  58.420 12.700
+\i (00:18:42) roam start
+\i (00:18:42) roam x -64
+\i (00:18:42) roam x -16
+\i (00:18:42) roam x -48
+\i (00:18:42) roam y -16
+\i (00:18:42) roam x -32
+\i (00:18:42) roam x -32
+\i (00:18:43) roam end
+\i (00:18:43) zoom in 1 
+\i (00:18:43) setwindow pcb
+\i (00:18:43) zoom in 44.031 24.505
+\i (00:18:43) trapsize 642
+\i (00:18:48) done 
+\i (00:18:48) place manual 
+\i (00:18:48) FORM plc_manual placement_list 
+\i (00:18:48) FORM plc_manual categories Components by refdes 
+\i (00:18:48) trapsize 642
+\i (00:18:50) setwindow form.plc_manual
+\i (00:18:50) FORM plc_manual tree  'Components by refdes' 
+\i (00:18:50) FORM plc_manual tree 'MULTISEL YES' D1 'Components by refdes' 
+\t (00:18:50) Placing D1 / D1N4148_DO41_D1N4148 / DO41 on Top.
+\i (00:18:50) FORM plc_manual tree  D1 'Components by refdes' 
+\i (00:18:52) setwindow pcb
+\i (00:18:52) pick grid 35.039 74.603
+\t (00:18:52) last pick:  35.560 73.660
+\i (00:18:53) setwindow form.plc_manual
+\i (00:18:53) FORM plc_manual done  
+\i (00:18:53) setwindow pcb
+\i (00:18:53) generaledit 
+\i (00:18:55) roam start
+\i (00:18:55) roam x 64
+\i (00:18:55) roam y 16
+\i (00:18:55) roam x 16
+\i (00:18:55) roam x 16
+\i (00:18:55) roam y -16
+\i (00:18:55) roam x 32
+\i (00:18:55) roam x 32
+\i (00:18:55) roam y -16
+\i (00:18:55) roam x 64
+\i (00:18:55) roam x 16
+\i (00:18:55) roam y -16
+\i (00:18:56) roam y 16
+\i (00:18:56) roam x -16
+\i (00:18:56) roam x -16
+\i (00:18:56) roam x -32
+\i (00:18:56) roam end
+\i (00:18:57) pick grid 36.195 79.484
+\t (00:18:57) last pick:  35.560 78.740
+\i (00:18:58) pick grid 54.435 84.623
+\t (00:18:58) last pick:  53.340 83.820
+\i (00:18:59) move 
+\t (00:18:59) Select element(s) to move.
+\i (00:19:00) pick grid 35.552 78.328
+\t (00:19:00) last pick:  35.560 78.740
+\t (00:19:00) last pick:  35.560 73.660
+\t (00:19:00) Moving D1 / D1N4148_DO41_D1N4148 / DO41.
+\t (00:19:00) Pick new location for the element(s).
+\i (00:19:02) pick grid 90.018 36.708
+\t (00:19:02) last pick:  88.900 35.560
+\i (00:19:03) pick grid 86.421 25.661
+\t (00:19:03) last pick:  86.360 25.400
+\i (00:19:06) trapsize 239
+\i (00:19:07) zoom out 1 
+\i (00:19:07) setwindow pcb
+\i (00:19:07) zoom out 57.389 8.754
+\i (00:19:07) trapsize 478
+\i (00:19:07) zoom out 1 
+\i (00:19:07) setwindow pcb
+\i (00:19:07) zoom out 57.388 8.755
+\i (00:19:07) trapsize 956
+\i (00:19:08) zoom in 1 
+\i (00:19:08) setwindow pcb
+\i (00:19:08) zoom in 41.169 26.637
+\i (00:19:08) trapsize 478
+\i (00:19:11) pick grid 8.584 20.235
+\t (00:19:11) last pick:  7.620 20.320
+\i (00:19:12) roam start
+\i (00:19:12) roam y -32
+\i (00:19:12) roam y -16
+\i (00:19:12) roam y -32
+\i (00:19:13) roam end
+\i (00:19:14) pick grid 17.184 47.373
+\t (00:19:14) last pick:  17.780 48.260
+\t (00:19:14) last pick:  17.780 45.720
+\t (00:19:14) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:19:14) Pick new location for the element(s).
+\i (00:19:15) pick grid 11.451 56.737
+\t (00:19:15) last pick:  12.700 55.880
+\i (00:19:16) pick grid 12.024 56.833
+\t (00:19:16) last pick:  12.700 55.880
+\t (00:19:16) last pick:  12.700 55.880
+\t (00:19:16) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:19:16) Pick new location for the element(s).
+\i (00:19:16) prepopup 14.126 55.686
+\i (00:19:17) rotate 
+\t (00:19:17) Spin the element(s).
+\i (00:19:18) iangle 90.000
+\t (00:19:18) last angle:  90.000 Degrees
+\i (00:19:19) pick grid 13.266 52.055
+\t (00:19:19) last pick:  12.700 50.800
+\i (00:19:19) pick grid 27.886 49.093
+\t (00:19:19) last pick:  27.940 48.260
+\t (00:19:19) last pick:  25.400 43.180
+\t (00:19:19) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:19:19) Pick new location for the element(s).
+\i (00:19:20) pick grid 22.344 51.960
+\t (00:19:20) last pick:  22.860 50.800
+\i (00:19:21) pick grid 10.686 51.960
+\t (00:19:21) last pick:  10.160 50.800
+\t (00:19:21) last pick:  12.700 50.800
+\t (00:19:21) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:19:21) Pick new location for the element(s).
+\i (00:19:23) pick grid 11.451 54.731
+\t (00:19:23) last pick:  12.700 55.880
+\i (00:19:24) pick grid 12.406 36.479
+\t (00:19:24) last pick:  12.700 35.560
+\t (00:19:24) last pick:  12.700 30.480
+\t (00:19:24) Moving R8 / R_RES400_1K / RES400.
+\t (00:19:24) Pick new location for the element(s).
+\i (00:19:28) pick grid 13.935 29.695
+\t (00:19:28) last pick:  12.700 30.480
+\i (00:19:28) pick grid 26.071 32.848
+\t (00:19:28) last pick:  25.400 33.020
+\t (00:19:28) last pick:  33.020 33.020
+\t (00:19:28) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:19:28) Pick new location for the element(s).
+\i (00:19:30) pick grid 31.900 35.715
+\t (00:19:30) last pick:  33.020 35.560
+\i (00:20:15) pick grid 26.644 20.903
+\t (00:20:15) last pick:  25.400 20.320
+\t (00:20:15) last pick:  15.240 17.780
+\t (00:20:15) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:20:15) Pick new location for the element(s).
+\i (00:20:16) pick grid 16.324 14.979
+\t (00:20:16) last pick:  15.240 15.240
+\i (00:20:18) pick grid 52.445 20.617
+\t (00:20:18) last pick:  53.340 20.320
+\i (00:20:19) pick grid 58.560 16.412
+\t (00:20:19) last pick:  58.420 15.240
+\t (00:20:19) last pick:  58.420 12.700
+\t (00:20:19) Moving R18 / R_RES400_10K / RES400.
+\t (00:20:19) Pick new location for the element(s).
+\i (00:20:22) prepopup 54.834 16.986
+\i (00:20:23) rotate 
+\t (00:20:23) Spin the element(s).
+\i (00:20:24) iangle 90.000
+\t (00:20:24) last angle:  90.000 Degrees
+\i (00:20:27) pick grid 62.191 14.883
+\t (00:20:27) last pick:  60.960 15.240
+\i (00:20:28) pick grid 63.529 10.679
+\t (00:20:28) last pick:  63.500 10.160
+\i (00:20:30) pick grid 38.207 49.762
+\t (00:20:30) last pick:  38.100 50.800
+\t (00:20:30) last pick:  38.100 45.720
+\t (00:20:30) Moving R1 / R_RES400_10K / RES400.
+\t (00:20:30) Pick new location for the element(s).
+\i (00:20:32) prepopup 39.449 48.233
+\i (00:20:33) rotate 
+\t (00:20:33) Spin the element(s).
+\i (00:20:35) iangle 90.000
+\t (00:20:35) last angle:  90.000 Degrees
+\i (00:20:37) pick grid 47.476 46.991
+\t (00:20:37) last pick:  48.260 48.260
+\i (00:20:38) pick grid 49.196 54.826
+\t (00:20:38) last pick:  48.260 55.880
+\t (00:20:38) last pick:  53.340 55.880
+\t (00:20:38) Moving R3 / R_RES400_10K / RES400.
+\t (00:20:38) Pick new location for the element(s).
+\i (00:20:41) pick grid 47.571 52.151
+\t (00:20:41) last pick:  48.260 53.340
+\i (00:20:42) pick grid 30.275 36.479
+\t (00:20:42) last pick:  30.480 35.560
+\t (00:20:42) last pick:  33.020 35.560
+\t (00:20:42) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:20:42) Pick new location for the element(s).
+\i (00:20:45) pick grid 34.289 45.271
+\t (00:20:45) last pick:  33.020 45.720
+\i (00:20:46) pick grid 13.266 38.773
+\t (00:20:46) last pick:  12.700 38.100
+\t (00:20:46) last pick:  12.700 30.480
+\t (00:20:46) Moving R8 / R_RES400_1K / RES400.
+\t (00:20:46) Pick new location for the element(s).
+\i (00:20:47) prepopup 16.993 34.473
+\i (00:20:49) rotate 
+\t (00:20:49) Spin the element(s).
+\i (00:20:50) iangle 90.000
+\t (00:20:50) last angle:  90.000 Degrees
+\i (00:20:53) pick grid 31.804 41.353
+\t (00:20:53) last pick:  33.020 40.640
+\i (00:20:54) pick grid 16.802 33.230
+\t (00:20:54) last pick:  17.780 33.020
+\i (00:20:56) drag_start grid 21.675 46.513
+\i (00:20:56) drag_stop 25.402 38.390
+\i (00:20:57) pick grid 26.740 35.906
+\t (00:20:57) last pick:  27.940 35.560
+\t (00:20:57) Moving R8 / R_RES400_1K / RES400.
+\t (00:20:57) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:20:57) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:20:57) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:20:57) Pick new location for the element(s).
+\i (00:20:59) pick grid 24.160 33.039
+\t (00:20:59) last pick:  25.400 33.020
+\i (00:21:00) pick grid 24.829 32.753
+\t (00:21:00) last pick:  25.400 33.020
+\i (00:21:02) drag_start grid 36.487 57.120
+\i (00:21:04) drag_stop 45.278 16.412
+\i (00:21:05) pick grid 55.025 23.006
+\t (00:21:05) last pick:  55.880 22.860
+\t (00:21:05) Moving R15 / R_RES400_10K / RES400.
+\t (00:21:05) Moving R13 / R_RES400_10K / RES400.
+\t (00:21:05) Moving R14 / R_RES400_22K / RES400.
+\t (00:21:05) Moving R12 / R_RES400_22K / RES400.
+\t (00:21:05) Moving R11 / R_RES400_10K / RES400.
+\t (00:21:05) Moving R9 / R_RES400_22K / RES400.
+\t (00:21:05) Moving R1 / R_RES400_10K / RES400.
+\t (00:21:05) Moving R3 / R_RES400_10K / RES400.
+\t (00:21:05) Pick new location for the element(s).
+\i (00:21:06) pick grid 55.789 26.732
+\t (00:21:06) last pick:  55.880 27.940
+\i (00:21:06) pick grid 56.076 25.681
+\t (00:21:06) last pick:  55.880 25.400
+\i (00:21:07) pick grid 56.458 15.648
+\t (00:21:07) last pick:  55.880 15.240
+\t (00:21:07) last pick:  60.960 15.240
+\t (00:21:07) Moving R18 / R_RES400_10K / RES400.
+\t (00:21:07) Pick new location for the element(s).
+\i (00:21:08) pick grid 46.998 17.750
+\t (00:21:08) last pick:  48.260 17.780
+\i (00:21:09) pick grid 54.929 20.426
+\t (00:21:09) last pick:  55.880 20.320
+\i (00:21:10) pick grid 43.367 17.081
+\t (00:21:10) last pick:  43.180 17.780
+\t (00:21:10) last pick:  48.260 17.780
+\t (00:21:10) Moving R18 / R_RES400_10K / RES400.
+\t (00:21:10) Pick new location for the element(s).
+\i (00:21:11) prepopup 47.189 16.890
+\i (00:21:12) rotate 
+\t (00:21:12) Spin the element(s).
+\i (00:21:13) iangle 180.000
+\t (00:21:13) last angle:  270.000 Degrees
+\i (00:21:15) pick grid 39.353 18.228
+\t (00:21:15) last pick:  38.100 17.780
+\i (00:21:16) pick grid 56.458 20.139
+\t (00:21:16) last pick:  55.880 20.320
+\i (00:21:16) pick grid 69.167 20.808
+\t (00:21:16) last pick:  68.580 20.320
+\t (00:21:16) last pick:  68.580 15.240
+\t (00:21:16) Moving R16 / R_RES400_10K / RES400.
+\t (00:21:16) Pick new location for the element(s).
+\i (00:21:20) pick grid 60.949 18.897
+\t (00:21:20) last pick:  60.960 17.780
+\i (00:21:21) pick grid 47.667 17.750
+\t (00:21:21) last pick:  48.260 17.780
+\t (00:21:21) last pick:  38.100 17.780
+\t (00:21:21) Moving R18 / R_RES400_10K / RES400.
+\t (00:21:21) Pick new location for the element(s).
+\i (00:21:24) pick grid 36.964 17.368
+\t (00:21:24) last pick:  38.100 17.780
+\i (00:21:29) pick grid 76.143 35.333
+\t (00:21:29) last pick:  76.200 35.560
+\t (00:21:29) last pick:  73.660 35.560
+\t (00:21:29) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:21:29) Pick new location for the element(s).
+\i (00:21:29) pick grid 72.225 26.637
+\t (00:21:29) last pick:  71.120 25.400
+\i (00:21:30) pick grid 69.454 14.979
+\t (00:21:30) last pick:  68.580 15.240
+\i (00:21:31) pick grid 62.000 20.903
+\t (00:21:31) last pick:  60.960 20.320
+\t (00:21:31) last pick:  60.960 17.780
+\t (00:21:31) Moving R16 / R_RES400_10K / RES400.
+\t (00:21:31) Pick new location for the element(s).
+\i (00:21:32) prepopup 61.140 18.037
+\i (00:21:34) rotate 
+\t (00:21:34) Spin the element(s).
+\i (00:21:35) iangle -180.000
+\t (00:21:35) last angle:  180.000 Degrees
+\i (00:21:37) pick grid 60.949 17.750
+\t (00:21:37) last pick:  60.960 17.780
+\i (00:21:37) pick grid 61.331 15.743
+\t (00:21:37) last pick:  60.960 15.240
+\t (00:21:37) last pick:  60.960 17.780
+\t (00:21:37) Moving R16 / R_RES400_10K / RES400.
+\t (00:21:37) Pick new location for the element(s).
+\i (00:21:38) prepopup 61.427 18.801
+\i (00:21:39) rotate 
+\t (00:21:39) Spin the element(s).
+\i (00:21:40) iangle 90.000
+\t (00:21:40) last angle:  270.000 Degrees
+\i (00:21:41) pick grid 58.560 13.737
+\t (00:21:41) last pick:  58.420 12.700
+\i (00:21:42) pick grid 87.610 17.463
+\t (00:21:42) last pick:  86.360 17.780
+\t (00:21:42) last pick:  86.360 12.700
+\t (00:21:42) Moving R10 / R_RES400_22K / RES400.
+\t (00:21:42) Pick new location for the element(s).
+\i (00:21:42) prepopup 77.958 11.061
+\i (00:21:44) rotate 
+\t (00:21:44) Spin the element(s).
+\i (00:21:45) iangle 90.000
+\t (00:21:45) last angle:  90.000 Degrees
+\i (00:21:47) pick grid 85.125 12.972
+\t (00:21:47) last pick:  86.360 12.700
+\i (00:21:48) pick grid 65.727 11.539
+\t (00:21:48) last pick:  66.040 12.700
+\t (00:21:48) last pick:  58.420 12.700
+\t (00:21:48) Moving R16 / R_RES400_10K / RES400.
+\t (00:21:48) Pick new location for the element(s).
+\i (00:21:50) pick grid 62.191 12.781
+\t (00:21:50) last pick:  60.960 12.700
+\i (00:21:50) pick grid 76.525 28.548
+\t (00:21:50) last pick:  76.200 27.940
+\t (00:21:50) last pick:  71.120 25.400
+\t (00:21:50) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:21:50) Pick new location for the element(s).
+\i (00:21:52) pick grid 71.174 21.572
+\t (00:21:52) last pick:  71.120 20.320
+\i (00:21:53) pick grid 88.852 39.442
+\t (00:21:53) last pick:  88.900 40.640
+\t (00:21:53) last pick:  88.900 35.560
+\t (00:21:53) Moving D1 / D1N4148_DO41_D1N4148 / DO41.
+\t (00:21:53) Pick new location for the element(s).
+\i (00:21:54) pick grid 82.641 35.333
+\t (00:21:54) last pick:  83.820 35.560
+\i (00:21:56) pick grid 64.867 42.977
+\t (00:21:56) last pick:  66.040 43.180
+\t (00:21:56) last pick:  63.500 38.100
+\t (00:21:56) Moving R6 / R_RES400_10K / RES400.
+\t (00:21:56) Pick new location for the element(s).
+\i (00:21:56) pick grid 59.611 36.670
+\t (00:21:56) last pick:  58.420 35.560
+\i (00:21:57) pick grid 59.134 41.353
+\t (00:21:57) last pick:  58.420 40.640
+\t (00:21:57) last pick:  58.420 35.560
+\t (00:21:57) Moving R6 / R_RES400_10K / RES400.
+\t (00:21:57) Pick new location for the element(s).
+\i (00:21:58) prepopup 60.471 41.544
+\i (00:21:59) rotate 
+\t (00:21:59) Spin the element(s).
+\i (00:22:00) iangle 180.000
+\t (00:22:00) last angle:  180.000 Degrees
+\i (00:22:01) pick grid 57.987 44.411
+\t (00:22:01) last pick:  58.420 43.180
+\i (00:22:03) pick grid 79.487 51.960
+\t (00:22:03) last pick:  78.740 50.800
+\t (00:22:03) last pick:  73.660 48.260
+\t (00:22:03) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:22:03) Pick new location for the element(s).
+\i (00:22:05) pick grid 64.676 47.946
+\t (00:22:05) last pick:  63.500 48.260
+\i (00:22:05) pick grid 79.870 46.131
+\t (00:22:05) last pick:  78.740 45.720
+\i (00:22:06) pick grid 89.043 51.673
+\t (00:22:06) last pick:  88.900 50.800
+\t (00:22:06) last pick:  88.900 48.260
+\t (00:22:06) Moving R4 / R_RES400_1K / RES400.
+\t (00:22:06) Pick new location for the element(s).
+\i (00:22:08) pick grid 78.627 49.475
+\t (00:22:08) last pick:  78.740 48.260
+\i (00:22:09) pick grid 83.023 41.926
+\t (00:22:09) last pick:  83.820 43.180
+\t (00:22:09) last pick:  83.820 35.560
+\t (00:22:09) Moving D1 / D1N4148_DO41_D1N4148 / DO41.
+\t (00:22:09) Pick new location for the element(s).
+\i (00:22:10) pick grid 83.214 49.380
+\t (00:22:10) last pick:  83.820 48.260
+\i (00:22:11) pick grid 91.050 42.786
+\t (00:22:11) last pick:  91.440 43.180
+\t (00:22:11) last pick:  91.440 35.560
+\t (00:22:11) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:22:11) Pick new location for the element(s).
+\i (00:22:13) prepopup 87.896 48.233
+\i (00:22:14) rotate 
+\t (00:22:14) Spin the element(s).
+\i (00:22:15) iangle 180.000
+\t (00:22:15) last angle:  180.000 Degrees
+\i (00:22:17) pick grid 87.705 57.884
+\t (00:22:17) last pick:  88.900 58.420
+\i (00:22:23) drag_start grid 87.514 61.515
+\i (00:22:24) drag_stop 95.636 53.584
+\i (00:22:25) prepopup 95.254 51.768
+\i (00:22:27) pick grid 83.787 39.537
+\t (00:22:27) last pick:  83.820 40.640
+\t (00:22:27) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:22:27) Moving R5 / R_RES400_1K / RES400.
+\t (00:22:27) Pick new location for the element(s).
+\i (00:22:28) prepopup 86.845 42.404
+\i (00:22:29) rotate 
+\t (00:22:29) Spin the element(s).
+\i (00:22:32) iangle -360.000
+\t (00:22:32) last angle:  +0.000 Degrees
+\i (00:22:33) pick grid 82.736 39.728
+\t (00:22:33) last pick:  83.820 40.640
+\i (00:22:35) pick grid 85.412 36.766
+\t (00:22:35) last pick:  86.360 35.560
+\i (00:22:36) pick grid 89.807 53.297
+\t (00:22:36) last pick:  88.900 53.340
+\t (00:22:36) last pick:  88.900 58.420
+\t (00:22:36) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:22:36) Pick new location for the element(s).
+\i (00:22:39) pick grid 88.756 57.215
+\t (00:22:39) last pick:  88.900 58.420
+\i (00:22:40) pick grid 93.725 57.311
+\t (00:22:40) last pick:  93.980 58.420
+\t (00:22:40) last pick:  93.980 48.260
+\t (00:22:40) Moving R5 / R_RES400_1K / RES400.
+\t (00:22:40) Pick new location for the element(s).
+\i (00:22:40) prepopup 93.534 55.782
+\i (00:22:42) rotate 
+\t (00:22:42) Spin the element(s).
+\i (00:22:49) iangle 0.000
+\t (00:22:49) last angle:  0.000 Degrees
+\i (00:22:49) pick grid 93.725 49.380
+\t (00:22:49) last pick:  93.980 48.260
+\i (00:22:50) pick grid 86.367 40.206
+\t (00:22:50) last pick:  86.360 40.640
+\i (00:22:51) pick grid 88.852 57.311
+\t (00:22:51) last pick:  88.900 58.420
+\t (00:22:51) last pick:  88.900 58.420
+\t (00:22:51) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:22:51) Pick new location for the element(s).
+\i (00:22:51) prepopup 88.852 57.311
+\i (00:22:52) rotate 
+\t (00:22:52) Spin the element(s).
+\i (00:22:54) iangle 180.000
+\t (00:22:54) last angle:  0.000 Degrees
+\i (00:22:54) pick grid 88.661 49.475
+\t (00:22:54) last pick:  88.900 48.260
+\i (00:22:55) pick grid 84.838 40.875
+\t (00:22:55) last pick:  83.820 40.640
+\i (00:22:59) pick grid 84.552 54.731
+\t (00:22:59) last pick:  83.820 55.880
+\t (00:22:59) last pick:  83.820 48.260
+\t (00:22:59) Moving D1 / D1N4148_DO41_D1N4148 / DO41.
+\t (00:22:59) Pick new location for the element(s).
+\i (00:22:59) prepopup 84.552 54.731
+\i (00:23:00) rotate 
+\t (00:23:00) Spin the element(s).
+\i (00:23:02) iangle 180.000
+\t (00:23:02) last angle:  180.000 Degrees
+\i (00:23:03) pick grid 82.641 58.649
+\t (00:23:03) last pick:  83.820 58.420
+\i (00:23:04) pick grid 87.992 39.633
+\t (00:23:04) last pick:  88.900 40.640
+\i (00:23:07) prepopup 93.725 55.113
+\i (00:23:08) rotate 
+\i (00:23:10) pick grid 93.152 57.693
+\t (00:23:10) last pick:  93.980 58.420
+\t (00:23:10) last pick:  93.980 48.260
+\t (00:23:10) Moving R5 / R_RES400_1K / RES400.
+\t (00:23:10) Pick new location for the element(s).
+\i (00:23:10) prepopup 94.299 52.724
+\i (00:23:12) rotate 
+\t (00:23:12) Spin the element(s).
+\i (00:23:13) iangle -90.000
+\t (00:23:13) last angle:  270.000 Degrees
+\i (00:23:17) pick grid 79.965 62.566
+\t (00:23:17) last pick:  78.740 63.500
+\i (00:23:18) pick grid 94.490 54.348
+\t (00:23:18) last pick:  93.980 53.340
+\i (00:23:19) pick grid 89.234 51.291
+\t (00:23:19) last pick:  88.900 50.800
+\t (00:23:19) last pick:  88.900 48.260
+\t (00:23:19) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:23:19) Pick new location for the element(s).
+\i (00:23:23) pick grid 92.483 48.902
+\t (00:23:23) last pick:  91.440 48.260
+\i (00:23:24) pick grid 83.596 51.386
+\t (00:23:24) last pick:  83.820 50.800
+\t (00:23:24) last pick:  83.820 58.420
+\t (00:23:24) Moving D1 / D1N4148_DO41_D1N4148 / DO41.
+\t (00:23:24) Pick new location for the element(s).
+\i (00:23:26) pick grid 86.463 57.215
+\t (00:23:26) last pick:  86.360 58.420
+\i (00:23:26) pick grid 79.583 53.488
+\t (00:23:26) last pick:  78.740 53.340
+\t (00:23:26) last pick:  78.740 48.260
+\t (00:23:26) Moving R4 / R_RES400_1K / RES400.
+\t (00:23:26) Pick new location for the element(s).
+\i (00:23:28) pick grid 80.825 49.380
+\t (00:23:28) last pick:  81.280 48.260
+\i (00:23:29) pick grid 70.600 60.369
+\t (00:23:29) last pick:  71.120 60.960
+\t (00:23:29) last pick:  63.500 48.260
+\t (00:23:29) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:23:29) Pick new location for the element(s).
+\i (00:23:30) pick grid 64.485 44.411
+\t (00:23:30) last pick:  63.500 43.180
+\i (00:23:31) pick grid 71.747 61.038
+\t (00:23:31) last pick:  71.120 60.960
+\t (00:23:31) last pick:  63.500 60.960
+\t (00:23:31) Moving R2 / R_RES400_5.1K / RES400.
+\t (00:23:31) Pick new location for the element(s).
+\i (00:23:34) pick grid 64.676 62.949
+\t (00:23:34) last pick:  63.500 63.500
+\i (00:23:35) pick grid 80.825 52.246
+\t (00:23:35) last pick:  81.280 53.340
+\t (00:23:35) last pick:  81.280 48.260
+\t (00:23:35) Moving R4 / R_RES400_1K / RES400.
+\t (00:23:35) Pick new location for the element(s).
+\i (00:23:38) pick grid 79.965 49.093
+\t (00:23:38) last pick:  78.740 48.260
+\i (00:23:39) pick grid 78.532 49.857
+\t (00:23:39) last pick:  78.740 50.800
+\t (00:23:39) last pick:  78.740 48.260
+\t (00:23:39) Moving R4 / R_RES400_1K / RES400.
+\t (00:23:39) Pick new location for the element(s).
+\i (00:23:39) pick grid 80.252 49.475
+\t (00:23:39) last pick:  81.280 48.260
+\i (00:23:41) pick grid 74.805 21.381
+\t (00:23:41) last pick:  73.660 20.320
+\t (00:23:41) last pick:  71.120 20.320
+\t (00:23:41) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:23:41) Pick new location for the element(s).
+\i (00:23:42) pick grid 77.385 23.483
+\t (00:23:42) last pick:  76.200 22.860
+\i (00:23:44) pick grid 58.274 35.906
+\t (00:23:44) last pick:  58.420 35.560
+\t (00:23:44) last pick:  58.420 43.180
+\t (00:23:44) Moving R6 / R_RES400_10K / RES400.
+\t (00:23:44) Pick new location for the element(s).
+\i (00:23:47) pick grid 76.716 57.215
+\t (00:23:47) last pick:  76.200 58.420
+\i (00:23:49) pick grid 67.925 45.748
+\t (00:23:49) last pick:  68.580 45.720
+\t (00:23:49) last pick:  63.500 43.180
+\t (00:23:49) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:23:49) Pick new location for the element(s).
+\i (00:23:50) pick grid 58.942 41.735
+\t (00:23:50) last pick:  58.420 40.640
+\i (00:23:51) pick grid 88.470 37.148
+\t (00:23:51) last pick:  88.900 38.100
+\i (00:23:59) pick grid 79.296 24.248
+\t (00:23:59) last pick:  78.740 25.400
+\t (00:23:59) last pick:  76.200 22.860
+\t (00:23:59) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:23:59) Pick new location for the element(s).
+\i (00:24:01) pick grid 62.191 22.432
+\t (00:24:01) last pick:  60.960 22.860
+\i (00:24:01) pick grid 79.009 21.095
+\t (00:24:01) last pick:  78.740 20.320
+\i (00:24:06) drag_start grid 26.644 31.319
+\i (00:24:07) drag_stop 19.191 45.271
+\i (00:24:08) pick grid 15.559 44.506
+\t (00:24:08) last pick:  15.240 45.720
+\t (00:24:08) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:24:08) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:24:08) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:24:08) Moving R8 / R_RES400_1K / RES400.
+\t (00:24:08) Pick new location for the element(s).
+\i (00:24:09) pick grid 15.559 44.315
+\t (00:24:09) last pick:  15.240 43.180
+\i (00:24:10) pick grid 14.795 42.977
+\t (00:24:10) last pick:  15.240 43.180
+\i (00:24:11) pick grid 18.522 15.170
+\t (00:24:11) last pick:  17.780 15.240
+\t (00:24:11) last pick:  12.700 10.160
+\t (00:24:11) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:24:11) Pick new location for the element(s).
+\i (00:24:12) pick grid 13.935 18.419
+\t (00:24:12) last pick:  12.700 17.780
+\i (00:24:13) pick grid 24.064 8.290
+\t (00:24:13) last pick:  22.860 7.620
+\i (00:24:13) pick grid 26.071 48.519
+\t (00:24:13) last pick:  25.400 48.260
+\t (00:24:13) last pick:  20.320 45.720
+\t (00:24:13) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:24:13) Pick new location for the element(s).
+\i (00:24:15) pick grid 18.713 44.411
+\t (00:24:15) last pick:  17.780 43.180
+\i (00:24:16) pick grid 29.606 57.215
+\t (00:24:16) last pick:  30.480 58.420
+\i (00:24:17) pick grid 26.835 40.206
+\t (00:24:17) last pick:  27.940 40.640
+\t (00:24:17) last pick:  30.480 40.640
+\t (00:24:17) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:24:17) Pick new location for the element(s).
+\i (00:24:18) prepopup 31.135 40.588
+\i (00:24:20) rotate 
+\t (00:24:20) Spin the element(s).
+\i (00:24:21) iangle 90.000
+\t (00:24:21) last angle:  180.000 Degrees
+\i (00:24:22) pick grid 33.715 62.280
+\t (00:24:22) last pick:  33.020 63.500
+\i (00:24:23) pick grid 32.664 59.031
+\t (00:24:23) last pick:  33.020 58.420
+\t (00:24:23) last pick:  33.020 63.500
+\t (00:24:23) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:24:23) Pick new location for the element(s).
+\i (00:24:26) pick grid 31.804 63.235
+\t (00:24:26) last pick:  33.020 63.500
+\i (00:24:26) pick grid 27.504 35.524
+\t (00:24:26) last pick:  27.940 35.560
+\t (00:24:26) last pick:  30.480 35.560
+\t (00:24:26) Moving R8 / R_RES400_1K / RES400.
+\t (00:24:26) Pick new location for the element(s).
+\i (00:24:27) prepopup 30.849 46.322
+\i (00:24:28) rotate 
+\t (00:24:28) Spin the element(s).
+\i (00:24:29) iangle 90.000
+\t (00:24:29) last angle:  180.000 Degrees
+\i (00:24:31) pick grid 27.886 62.375
+\t (00:24:31) last pick:  27.940 63.500
+\i (00:24:32) pick grid 23.682 47.946
+\t (00:24:32) last pick:  22.860 48.260
+\t (00:24:32) last pick:  17.780 43.180
+\t (00:24:32) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:24:32) Pick new location for the element(s).
+\i (00:24:33) pick grid 18.522 36.766
+\t (00:24:33) last pick:  17.780 35.560
+\i (00:24:34) pick grid 25.880 50.431
+\t (00:24:34) last pick:  25.400 50.800
+\i (00:24:51) pick grid 65.631 12.208
+\t (00:24:51) last pick:  66.040 12.700
+\t (00:24:51) last pick:  60.960 12.700
+\t (00:24:51) Moving R16 / R_RES400_10K / RES400.
+\t (00:24:51) Pick new location for the element(s).
+\i (00:24:54) pick grid 60.376 14.023
+\t (00:24:54) last pick:  60.960 15.240
+\i (00:24:55) pick grid 65.249 27.688
+\t (00:24:55) last pick:  66.040 27.940
+\t (00:24:55) last pick:  60.960 22.860
+\t (00:24:55) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:24:55) Pick new location for the element(s).
+\i (00:24:58) pick grid 69.932 21.668
+\t (00:24:58) last pick:  71.120 22.860
+\i (00:24:58) pick grid 67.925 15.170
+\t (00:24:58) last pick:  68.580 15.240
+\t (00:24:58) last pick:  60.960 15.240
+\t (00:24:58) Moving R16 / R_RES400_10K / RES400.
+\t (00:24:58) Pick new location for the element(s).
+\i (00:25:00) pick grid 77.385 17.846
+\t (00:25:00) last pick:  76.200 17.780
+\i (00:25:00) pick grid 78.723 11.539
+\t (00:25:00) last pick:  78.740 12.700
+\t (00:25:00) last pick:  86.360 12.700
+\t (00:25:00) Moving R10 / R_RES400_22K / RES400.
+\t (00:25:00) Pick new location for the element(s).
+\i (00:25:02) pick grid 85.221 13.546
+\t (00:25:02) last pick:  86.360 12.700
+\i (00:25:04) pick grid 80.825 17.272
+\t (00:25:04) last pick:  81.280 17.780
+\t (00:25:04) last pick:  76.200 17.780
+\t (00:25:04) Moving R16 / R_RES400_10K / RES400.
+\t (00:25:04) Pick new location for the element(s).
+\i (00:25:05) pick grid 84.934 23.770
+\t (00:25:05) last pick:  83.820 22.860
+\i (00:25:06) pick grid 84.838 23.675
+\t (00:25:06) last pick:  83.820 22.860
+\t (00:25:06) last pick:  83.820 22.860
+\t (00:25:06) Moving R16 / R_RES400_10K / RES400.
+\t (00:25:06) Pick new location for the element(s).
+\i (00:25:06) prepopup 84.743 23.388
+\i (00:25:07) rotate 
+\t (00:25:07) Spin the element(s).
+\i (00:25:08) iangle 90.000
+\t (00:25:08) last angle:  0.000 Degrees
+\i (00:25:09) pick grid 83.978 18.801
+\t (00:25:09) last pick:  83.820 17.780
+\i (00:25:10) pick grid 83.787 13.641
+\t (00:25:10) last pick:  83.820 12.700
+\t (00:25:10) last pick:  86.360 12.700
+\t (00:25:10) Moving R10 / R_RES400_22K / RES400.
+\t (00:25:10) Pick new location for the element(s).
+\i (00:25:11) prepopup 83.883 13.737
+\i (00:25:12) rotate 
+\t (00:25:12) Spin the element(s).
+\i (00:25:13) iangle 90.000
+\t (00:25:13) last angle:  180.000 Degrees
+\i (00:25:15) pick grid 88.087 26.732
+\t (00:25:15) last pick:  88.900 27.940
+\i (00:25:15) pick grid 81.781 10.201
+\t (00:25:15) last pick:  81.280 10.160
+\i (00:25:17) pick grid 72.129 26.255
+\t (00:25:17) last pick:  71.120 25.400
+\t (00:25:17) last pick:  71.120 22.860
+\t (00:25:17) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:25:17) Pick new location for the element(s).
+\i (00:25:18) pick grid 69.932 19.279
+\t (00:25:18) last pick:  71.120 20.320
+\i (00:25:19) drag_start grid 34.098 34.281
+\i (00:25:20) drag_stop 52.540 10.488
+\i (00:25:21) pick grid 55.025 14.501
+\t (00:25:21) last pick:  55.880 15.240
+\t (00:25:21) Moving R17 / R_RES400_22K / RES400.
+\t (00:25:21) Moving R18 / R_RES400_10K / RES400.
+\t (00:25:21) Moving R14 / R_RES400_22K / RES400.
+\t (00:25:21) Moving R15 / R_RES400_10K / RES400.
+\t (00:25:21) Moving R13 / R_RES400_10K / RES400.
+\t (00:25:21) Pick new location for the element(s).
+\i (00:25:23) pick grid 69.932 15.934
+\t (00:25:23) last pick:  71.120 15.240
+\i (00:25:25) pick grid 68.594 13.546
+\t (00:25:25) last pick:  68.580 12.700
+\i (00:25:26) drag_start grid 50.629 37.626
+\i (00:25:26) drag_stop 59.994 12.972
+\i (00:25:27) pick grid 69.645 12.303
+\t (00:25:27) last pick:  68.580 12.700
+\t (00:25:27) Moving R18 / R_RES400_10K / RES400.
+\t (00:25:27) Moving R17 / R_RES400_22K / RES400.
+\t (00:25:27) Moving R15 / R_RES400_10K / RES400.
+\t (00:25:27) Moving R14 / R_RES400_22K / RES400.
+\t (00:25:27) Moving R13 / R_RES400_10K / RES400.
+\t (00:25:27) Pick new location for the element(s).
+\i (00:25:28) pick grid 69.932 12.208
+\t (00:25:28) last pick:  71.120 12.700
+\i (00:25:29) drag_start grid 37.538 61.802
+\i (00:25:30) drag_stop 50.247 33.804
+\i (00:25:30) pick grid 50.533 30.364
+\t (00:25:30) last pick:  50.800 30.480
+\t (00:25:30) Moving R11 / R_RES400_10K / RES400.
+\t (00:25:30) Moving R12 / R_RES400_22K / RES400.
+\t (00:25:30) Moving R9 / R_RES400_22K / RES400.
+\t (00:25:30) Moving R3 / R_RES400_10K / RES400.
+\t (00:25:30) Moving R1 / R_RES400_10K / RES400.
+\t (00:25:30) Pick new location for the element(s).
+\i (00:25:31) pick grid 49.960 24.057
+\t (00:25:31) last pick:  50.800 22.860
+\i (00:25:32) pick grid 83.214 38.199
+\t (00:25:32) last pick:  83.820 38.100
+\i (00:25:34) pick grid 43.462 50.431
+\t (00:25:34) last pick:  43.180 50.800
+\t (00:25:34) last pick:  48.260 50.800
+\t (00:25:34) Moving R3 / R_RES400_10K / RES400.
+\t (00:25:34) Pick new location for the element(s).
+\i (00:25:35) prepopup 46.520 54.540
+\i (00:25:36) rotate 
+\t (00:25:36) Spin the element(s).
+\i (00:25:37) add rect 
+\i (00:25:40) pick grid 24.924 64.955
+\t (00:25:40) last pick:  25.400 66.040
+\i (00:25:41) prepopup 16.897 63.044
+\i (00:25:42) done 
+\i (00:25:42) generaledit 
+\i (00:25:43) copy 
+\t (00:25:43) Select the element(s) to copy.
+\i (00:25:43) move 
+\t (00:25:43) Select element(s) to move.
+\i (00:25:44) drag_start grid 22.631 65.433
+\i (00:25:44) drag_stop 35.722 50.335
+\i (00:25:45) pick grid 38.684 55.782
+\t (00:25:45) last pick:  38.100 55.880
+\t (00:25:45) Moving R8 / R_RES400_1K / RES400.
+\t (00:25:45) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:25:45) Pick new location for the element(s).
+\i (00:25:46) pick grid 35.818 52.151
+\t (00:25:46) last pick:  35.560 53.340
+\i (00:25:48) pick grid 47.284 49.284
+\t (00:25:48) last pick:  48.260 48.260
+\t (00:25:48) last pick:  48.260 50.800
+\t (00:25:48) Moving R3 / R_RES400_10K / RES400.
+\t (00:25:48) Pick new location for the element(s).
+\i (00:25:48) prepopup 44.418 53.680
+\i (00:25:49) rotate 
+\t (00:25:49) Spin the element(s).
+\i (00:25:52) iangle 90.000
+\t (00:25:52) last angle:  180.000 Degrees
+\i (00:25:54) pick grid 36.773 59.700
+\t (00:25:54) last pick:  35.560 60.960
+\i (00:25:54) pick grid 45.947 44.697
+\t (00:25:54) last pick:  45.720 45.720
+\t (00:25:54) last pick:  48.260 45.720
+\t (00:25:54) Moving R1 / R_RES400_10K / RES400.
+\t (00:25:54) Pick new location for the element(s).
+\i (00:25:55) prepopup 47.762 53.680
+\i (00:25:56) rotate 
+\t (00:25:56) Spin the element(s).
+\i (00:25:58) iangle 270.000
+\t (00:25:58) last angle:  0.000 Degrees
+\i (00:25:59) pick grid 41.838 50.431
+\t (00:25:59) last pick:  40.640 50.800
+\i (00:26:00) pick grid 47.953 52.915
+\t (00:26:00) last pick:  48.260 53.340
+\i (00:26:03) pick grid 46.138 39.059
+\t (00:26:03) last pick:  45.720 38.100
+\t (00:26:03) last pick:  38.100 40.640
+\t (00:26:03) Moving R9 / R_RES400_22K / RES400.
+\t (00:26:03) Pick new location for the element(s).
+\i (00:26:05) pick grid 38.493 41.735
+\t (00:26:05) last pick:  38.100 40.640
+\i (00:26:10) pick grid 24.924 21.859
+\t (00:26:10) last pick:  25.400 22.860
+\t (00:26:10) last pick:  12.700 17.780
+\t (00:26:10) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:26:10) Pick new location for the element(s).
+\i (00:26:13) pick grid 25.975 14.023
+\t (00:26:13) last pick:  25.400 15.240
+\i (00:26:14) pick grid 48.240 19.566
+\t (00:26:14) last pick:  48.260 20.320
+\i (00:26:17) zoom in 1 
+\i (00:26:17) setwindow pcb
+\i (00:26:17) zoom in 38.971 17.272
+\i (00:26:17) trapsize 239
+\i (00:26:19) pick grid 45.517 28.740
+\t (00:26:19) last pick:  45.720 27.940
+\i (00:26:20) pick grid 46.616 29.934
+\t (00:26:20) last pick:  45.720 30.480
+\t (00:26:20) last pick:  38.100 30.480
+\t (00:26:20) Moving R12 / R_RES400_22K / RES400.
+\t (00:26:20) Pick new location for the element(s).
+\i (00:26:23) prepopup 34.337 30.316
+\i (00:26:24) rotate 
+\t (00:26:24) Spin the element(s).
+\i (00:26:24) iangle 90.000
+\t (00:26:24) last angle:  0.000 Degrees
+\i (00:26:27) pick grid 49.531 19.088
+\t (00:26:27) last pick:  50.800 20.320
+\i (00:26:29) pick grid 43.845 35.476
+\t (00:26:29) last pick:  43.180 35.560
+\t (00:26:29) last pick:  38.100 35.560
+\t (00:26:29) Moving R11 / R_RES400_10K / RES400.
+\t (00:26:29) Pick new location for the element(s).
+\i (00:26:29) prepopup 42.173 31.606
+\i (00:26:30) rotate 
+\t (00:26:30) Spin the element(s).
+\i (00:26:31) iangle 90.000
+\t (00:26:31) last angle:  0.000 Degrees
+\i (00:26:33) pick grid 46.951 23.149
+\t (00:26:33) last pick:  45.720 22.860
+\i (00:26:33) pick grid 50.104 24.057
+\t (00:26:33) last pick:  50.800 22.860
+\t (00:26:33) last pick:  50.800 20.320
+\t (00:26:33) Moving R12 / R_RES400_22K / RES400.
+\t (00:26:33) Pick new location for the element(s).
+\i (00:26:34) pick grid 50.008 24.105
+\t (00:26:34) last pick:  50.800 22.860
+\i (00:26:35) pick grid 48.002 18.515
+\t (00:26:35) last pick:  48.260 17.780
+\i (00:26:36) pick grid 44.370 40.636
+\t (00:26:36) last pick:  43.180 40.640
+\t (00:26:36) last pick:  38.100 40.640
+\t (00:26:36) Moving R9 / R_RES400_22K / RES400.
+\t (00:26:36) Pick new location for the element(s).
+\i (00:26:39) pick grid 36.774 36.910
+\t (00:26:39) last pick:  35.560 38.100
+\i (00:26:39) pick grid 36.821 33.040
+\t (00:26:39) last pick:  35.560 33.020
+\i (00:26:39) zoom out 1 
+\i (00:26:39) setwindow pcb
+\i (00:26:39) zoom out 39.019 32.371
+\i (00:26:39) trapsize 478
+\i (00:26:40) zoom out 1 
+\i (00:26:40) setwindow pcb
+\i (00:26:40) zoom out 38.637 31.033
+\i (00:26:40) trapsize 956
+\i (00:26:41) zoom in 1 
+\i (00:26:41) setwindow pcb
+\i (00:26:41) zoom in 50.151 41.353
+\i (00:26:41) trapsize 478
+\i (00:26:43) pick grid 11.259 56.069
+\t (00:26:43) last pick:  10.160 55.880
+\t (00:26:43) last pick:  12.700 55.880
+\t (00:26:43) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:26:43) Pick new location for the element(s).
+\i (00:26:43) prepopup 11.355 55.878
+\i (00:26:44) rotate 
+\t (00:26:44) Spin the element(s).
+\i (00:26:48) iangle 90.000
+\t (00:26:48) last angle:  180.000 Degrees
+\i (00:26:49) pick grid 19.095 49.571
+\t (00:26:49) last pick:  20.320 50.800
+\i (00:26:51) pick grid 19.668 39.633
+\t (00:26:51) last pick:  20.320 40.640
+\t (00:26:51) last pick:  17.780 35.560
+\t (00:26:51) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:26:51) Pick new location for the element(s).
+\i (00:26:55) pick grid 16.802 36.767
+\t (00:26:55) last pick:  17.780 35.560
+\i (00:26:58) pick grid 39.066 47.278
+\t (00:26:58) last pick:  38.100 48.260
+\i (00:26:58) pick grid 35.913 51.769
+\t (00:26:58) last pick:  35.560 50.800
+\t (00:26:58) last pick:  35.560 60.960
+\t (00:26:58) Moving R3 / R_RES400_10K / RES400.
+\t (00:26:58) Pick new location for the element(s).
+\i (00:27:03) pick grid 21.579 63.332
+\t (00:27:03) last pick:  20.320 63.500
+\i (00:27:04) pick grid 19.190 48.329
+\t (00:27:04) last pick:  20.320 48.260
+\t (00:27:04) last pick:  20.320 50.800
+\t (00:27:04) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:27:04) Pick new location for the element(s).
+\i (00:27:04) pick grid 15.846 48.233
+\t (00:27:04) last pick:  15.240 48.260
+\i (00:27:06) pick grid 31.422 54.349
+\t (00:27:06) last pick:  30.480 53.340
+\t (00:27:06) last pick:  30.480 60.960
+\t (00:27:06) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:27:06) Pick new location for the element(s).
+\i (00:27:08) pick grid 18.617 29.122
+\t (00:27:08) last pick:  17.780 27.940
+\i (00:27:09) pick grid 18.044 27.975
+\t (00:27:09) last pick:  17.780 27.940
+\t (00:27:09) last pick:  17.780 27.940
+\t (00:27:09) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:27:09) Pick new location for the element(s).
+\i (00:27:14) prepopup 15.846 27.784
+\i (00:27:15) rotate 
+\t (00:27:15) Spin the element(s).
+\i (00:27:20) iangle -360.000
+\t (00:27:20) last angle:  180.000 Degrees
+\i (00:27:22) pick grid 36.295 59.700
+\t (00:27:22) last pick:  35.560 60.960
+\i (00:27:24) pick grid 25.879 53.585
+\t (00:27:24) last pick:  25.400 53.340
+\t (00:27:24) last pick:  25.400 60.960
+\t (00:27:24) Moving R8 / R_RES400_1K / RES400.
+\t (00:27:24) Pick new location for the element(s).
+\i (00:27:27) pick grid 11.068 36.767
+\t (00:27:27) last pick:  10.160 35.560
+\i (00:27:28) pick grid 10.877 29.313
+\t (00:27:28) last pick:  10.160 30.480
+\t (00:27:28) last pick:  10.160 35.560
+\t (00:27:28) Moving R8 / R_RES400_1K / RES400.
+\t (00:27:28) Pick new location for the element(s).
+\i (00:27:29) pick grid 11.450 30.460
+\t (00:27:29) last pick:  12.700 30.480
+\i (00:27:30) pick grid 15.750 29.218
+\t (00:27:30) last pick:  15.240 30.480
+\i (00:27:32) pick grid 21.962 38.104
+\t (00:27:32) last pick:  22.860 38.100
+\t (00:27:32) last pick:  17.780 35.560
+\t (00:27:32) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:27:32) Pick new location for the element(s).
+\i (00:27:33) pick grid 22.631 34.187
+\t (00:27:33) last pick:  22.860 33.020
+\i (00:27:35) pick grid 47.093 46.896
+\t (00:27:35) last pick:  48.260 45.720
+\i (00:27:35) pick grid 20.815 56.738
+\t (00:27:35) last pick:  20.320 55.880
+\t (00:27:35) last pick:  20.320 63.500
+\t (00:27:35) Moving R3 / R_RES400_10K / RES400.
+\t (00:27:35) Pick new location for the element(s).
+\i (00:27:38) pick grid 29.224 60.943
+\t (00:27:38) last pick:  30.480 60.960
+\i (00:27:40) pick grid 39.926 52.438
+\t (00:27:40) last pick:  40.640 53.340
+\t (00:27:40) last pick:  40.640 50.800
+\t (00:27:40) Moving R1 / R_RES400_10K / RES400.
+\t (00:27:40) Pick new location for the element(s).
+\i (00:27:42) pick grid 21.388 49.476
+\t (00:27:42) last pick:  20.320 48.260
+\i (00:27:44) pick grid 35.435 52.438
+\t (00:27:44) last pick:  35.560 53.340
+\t (00:27:44) last pick:  35.560 60.960
+\t (00:27:44) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:27:44) Pick new location for the element(s).
+\i (00:27:45) pick grid 24.159 58.936
+\t (00:27:45) last pick:  25.400 58.420
+\i (00:27:46) pick grid 30.180 56.356
+\t (00:27:46) last pick:  30.480 55.880
+\t (00:27:46) last pick:  30.480 60.960
+\t (00:27:46) Moving R3 / R_RES400_10K / RES400.
+\t (00:27:46) Pick new location for the element(s).
+\i (00:27:48) pick grid 31.708 58.363
+\t (00:27:48) last pick:  30.480 58.420
+\i (00:27:49) pick grid 39.449 49.189
+\t (00:27:49) last pick:  40.640 48.260
+\i (00:27:50) pick grid 16.515 46.705
+\t (00:27:50) last pick:  17.780 45.720
+\t (00:27:50) last pick:  15.240 48.260
+\t (00:27:50) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:27:50) Pick new location for the element(s).
+\i (00:27:51) pick grid 13.935 49.954
+\t (00:27:51) last pick:  12.700 50.800
+\i (00:27:52) pick grid 18.235 43.169
+\t (00:27:52) last pick:  17.780 43.180
+\i (00:27:56) pick grid 41.838 37.627
+\t (00:27:56) last pick:  40.640 38.100
+\t (00:27:56) last pick:  35.560 38.100
+\t (00:27:56) Moving R9 / R_RES400_22K / RES400.
+\t (00:27:56) Pick new location for the element(s).
+\i (00:27:58) pick grid 32.951 29.122
+\t (00:27:58) last pick:  33.020 27.940
+\i (00:27:59) pick grid 47.762 18.706
+\t (00:27:59) last pick:  48.260 17.780
+\i (00:28:01) pick grid 36.964 25.491
+\t (00:28:01) last pick:  38.100 25.400
+\t (00:28:01) last pick:  33.020 27.940
+\t (00:28:01) Moving R9 / R_RES400_22K / RES400.
+\t (00:28:01) Pick new location for the element(s).
+\i (00:28:04) pick grid 42.029 36.958
+\t (00:28:04) last pick:  43.180 38.100
+\i (00:28:05) pick grid 42.506 41.927
+\t (00:28:05) last pick:  43.180 43.180
+\i (00:28:13) pick grid 64.389 45.749
+\t (00:28:13) last pick:  63.500 45.720
+\t (00:28:13) last pick:  58.420 40.640
+\t (00:28:13) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:28:13) Pick new location for the element(s).
+\i (00:28:14) pick grid 62.669 49.476
+\t (00:28:14) last pick:  63.500 48.260
+\i (00:28:15) pick grid 64.198 48.425
+\t (00:28:15) last pick:  63.500 48.260
+\t (00:28:15) last pick:  63.500 48.260
+\t (00:28:15) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:28:15) Pick new location for the element(s).
+\i (00:28:15) pick grid 63.529 46.896
+\t (00:28:15) last pick:  63.500 45.720
+\i (00:28:16) pick grid 64.293 45.080
+\t (00:28:16) last pick:  63.500 45.720
+\t (00:28:16) last pick:  63.500 45.720
+\t (00:28:16) Moving U2 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:28:16) Pick new location for the element(s).
+\i (00:28:17) pick grid 64.293 44.316
+\t (00:28:17) last pick:  63.500 43.180
+\i (00:28:18) pick grid 83.023 40.207
+\t (00:28:18) last pick:  83.820 40.640
+\i (00:28:19) drag_start grid 75.856 66.294
+\i (00:28:20) drag_stop 91.623 44.316
+\i (00:28:21) pick grid 88.087 41.353
+\t (00:28:21) last pick:  88.900 40.640
+\t (00:28:21) Moving R6 / R_RES400_10K / RES400.
+\t (00:28:21) Moving R4 / R_RES400_1K / RES400.
+\t (00:28:21) Moving R5 / R_RES400_1K / RES400.
+\t (00:28:21) Moving D1 / D1N4148_DO41_D1N4148 / DO41.
+\t (00:28:21) Moving D2 / DIODE ZENER_DO41_RD 5.6A / DO41.
+\t (00:28:21) Pick new location for the element(s).
+\i (00:28:22) pick grid 87.705 35.811
+\t (00:28:22) last pick:  88.900 35.560
+\i (00:28:23) pick grid 86.367 33.900
+\t (00:28:23) last pick:  86.360 33.020
+\i (00:28:24) pick grid 69.167 63.809
+\t (00:28:24) last pick:  68.580 63.500
+\t (00:28:24) last pick:  63.500 63.500
+\t (00:28:24) Moving R2 / R_RES400_5.1K / RES400.
+\t (00:28:24) Pick new location for the element(s).
+\i (00:28:26) pick grid 64.676 58.171
+\t (00:28:26) last pick:  63.500 58.420
+\i (00:28:27) pick grid 54.642 52.725
+\t (00:28:27) last pick:  55.880 53.340
+\i (00:28:30) pick grid 83.692 21.860
+\t (00:28:30) last pick:  83.820 22.860
+\t (00:28:30) last pick:  83.820 17.780
+\t (00:28:30) Moving R16 / R_RES400_10K / RES400.
+\t (00:28:30) Pick new location for the element(s).
+\i (00:28:32) pick grid 82.640 21.000
+\t (00:28:32) last pick:  83.820 20.320
+\i (00:28:33) pick grid 88.661 21.477
+\t (00:28:33) last pick:  88.900 20.320
+\t (00:28:33) last pick:  88.900 27.940
+\t (00:28:33) Moving R10 / R_RES400_22K / RES400.
+\t (00:28:33) Pick new location for the element(s).
+\i (00:28:33) prepopup 88.852 25.682
+\i (00:28:34) rotate 
+\t (00:28:34) Spin the element(s).
+\i (00:28:37) iangle 180.000
+\t (00:28:37) last angle:  0.000 Degrees
+\i (00:28:40) pick grid 80.060 30.460
+\t (00:28:40) last pick:  81.280 30.480
+\i (00:28:40) pick grid 83.596 25.873
+\t (00:28:40) last pick:  83.820 25.400
+\t (00:28:40) last pick:  83.820 20.320
+\t (00:28:40) Moving R16 / R_RES400_10K / RES400.
+\t (00:28:40) Pick new location for the element(s).
+\i (00:28:42) pick grid 88.947 21.573
+\t (00:28:42) last pick:  88.900 20.320
+\i (00:28:44) pick grid 81.780 31.511
+\t (00:28:44) last pick:  81.280 30.480
+\t (00:28:44) last pick:  81.280 30.480
+\t (00:28:44) Moving R10 / R_RES400_22K / RES400.
+\t (00:28:44) Pick new location for the element(s).
+\i (00:28:45) pick grid 79.965 4.468
+\t (00:28:45) last pick:  78.740 5.080
+\i (00:28:46) pick grid 79.296 7.813
+\t (00:28:46) last pick:  78.740 7.620
+\t (00:28:46) last pick:  78.740 5.080
+\t (00:28:46) Moving R10 / R_RES400_22K / RES400.
+\t (00:28:46) Pick new location for the element(s).
+\i (00:28:46) prepopup 83.883 8.386
+\i (00:28:47) rotate 
+\t (00:28:47) Spin the element(s).
+\i (00:28:49) iangle -180.000
+\t (00:28:49) last angle:  180.000 Degrees
+\i (00:28:51) pick grid 84.074 16.413
+\t (00:28:51) last pick:  83.820 15.240
+\i (00:28:52) pick grid 89.043 21.860
+\t (00:28:52) last pick:  88.900 22.860
+\t (00:28:52) last pick:  88.900 20.320
+\t (00:28:52) Moving R16 / R_RES400_10K / RES400.
+\t (00:28:52) Pick new location for the element(s).
+\i (00:28:53) pick grid 88.469 6.284
+\t (00:28:53) last pick:  88.900 5.080
+\i (00:28:55) pick grid 84.169 11.062
+\t (00:28:55) last pick:  83.820 10.160
+\t (00:28:55) last pick:  83.820 15.240
+\t (00:28:55) Moving R10 / R_RES400_22K / RES400.
+\t (00:28:55) Pick new location for the element(s).
+\i (00:28:57) pick grid 85.029 18.611
+\t (00:28:57) last pick:  83.820 17.780
+\i (00:28:57) pick grid 89.234 13.451
+\t (00:28:57) last pick:  88.900 12.700
+\t (00:28:57) last pick:  88.900 5.080
+\t (00:28:57) Moving R16 / R_RES400_10K / RES400.
+\t (00:28:57) Pick new location for the element(s).
+\i (00:28:59) pick grid 89.138 8.864
+\t (00:28:59) last pick:  88.900 7.620
+\i (00:28:59) pick grid 94.107 16.126
+\t (00:28:59) last pick:  93.980 15.240
+\i (00:29:00) pick grid 77.003 22.146
+\t (00:29:00) last pick:  76.200 22.860
+\t (00:29:00) last pick:  71.120 20.320
+\t (00:29:00) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:29:00) Pick new location for the element(s).
+\i (00:29:03) pick grid 72.320 10.584
+\t (00:29:03) last pick:  71.120 10.160
+\i (00:29:04) pick grid 79.487 26.924
+\t (00:29:04) last pick:  78.740 27.940
+\i (00:29:04) pick grid 76.907 14.406
+\t (00:29:04) last pick:  76.200 15.240
+\t (00:29:04) last pick:  71.120 10.160
+\t (00:29:04) Moving U4 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:29:04) Pick new location for the element(s).
+\i (00:29:05) pick grid 71.843 24.058
+\t (00:29:05) last pick:  71.120 22.860
+\i (00:29:06) pick grid 84.169 12.973
+\t (00:29:06) last pick:  83.820 12.700
+\t (00:29:06) last pick:  83.820 17.780
+\t (00:29:06) Moving R10 / R_RES400_22K / RES400.
+\t (00:29:06) Pick new location for the element(s).
+\i (00:29:07) pick grid 83.692 24.153
+\t (00:29:07) last pick:  83.820 25.400
+\i (00:29:08) pick grid 89.807 14.693
+\t (00:29:08) last pick:  88.900 15.240
+\t (00:29:08) last pick:  88.900 7.620
+\t (00:29:08) Moving R16 / R_RES400_10K / RES400.
+\t (00:29:08) Pick new location for the element(s).
+\i (00:29:09) pick grid 87.896 16.508
+\t (00:29:09) last pick:  88.900 15.240
+\i (00:29:09) pick grid 80.634 8.959
+\t (00:29:09) last pick:  81.280 10.160
+\i (00:29:11) roam start
+\i (00:29:11) roam x -80
+\i (00:29:12) roam x -64
+\i (00:29:12) roam x -32
+\i (00:29:12) roam x -32
+\i (00:29:12) roam x -16
+\i (00:29:12) roam x -48
+\i (00:29:12) roam end
+\i (00:29:15) pick grid 50.335 37.053
+\t (00:29:15) last pick:  50.800 38.100
+\t (00:29:15) last pick:  43.180 38.100
+\t (00:29:15) Moving R9 / R_RES400_22K / RES400.
+\t (00:29:15) Pick new location for the element(s).
+\i (00:29:17) prepopup 31.701 29.409
+\i (00:29:18) rotate 
+\t (00:29:18) Spin the element(s).
+\i (00:29:19) iangle 90.000
+\t (00:29:19) last angle:  0.000 Degrees
+\i (00:29:20) pick grid 41.735 24.153
+\t (00:29:20) last pick:  40.640 25.400
+\i (00:29:20) pick grid 38.294 17.942
+\t (00:29:20) last pick:  38.100 17.780
+\t (00:29:20) last pick:  25.400 15.240
+\t (00:29:20) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:29:20) Pick new location for the element(s).
+\i (00:29:21) pick grid 18.992 12.304
+\t (00:29:21) last pick:  17.780 12.700
+\i (00:29:23) pick grid 40.875 26.924
+\t (00:29:23) last pick:  40.640 27.940
+\t (00:29:23) last pick:  40.640 25.400
+\t (00:29:23) Moving R9 / R_RES400_22K / RES400.
+\t (00:29:23) Pick new location for the element(s).
+\i (00:29:23) pick grid 41.352 24.058
+\t (00:29:23) last pick:  40.640 22.860
+\i (00:29:24) pick grid 48.710 17.655
+\t (00:29:24) last pick:  48.260 17.780
+\i (00:29:30) drag_start grid 39.919 38.009
+\i (00:29:31) drag_stop 63.522 15.075
+\i (00:29:32) pick grid 50.430 15.935
+\t (00:29:32) last pick:  50.800 15.240
+\t (00:29:32) Moving R9 / R_RES400_22K / RES400.
+\t (00:29:32) Moving R12 / R_RES400_22K / RES400.
+\t (00:29:32) Moving R11 / R_RES400_10K / RES400.
+\t (00:29:32) Moving R18 / R_RES400_10K / RES400.
+\t (00:29:32) Moving R15 / R_RES400_10K / RES400.
+\t (00:29:32) Moving R13 / R_RES400_10K / RES400.
+\t (00:29:32) Moving R14 / R_RES400_22K / RES400.
+\t (00:29:32) Pick new location for the element(s).
+\i (00:29:34) pick grid 46.990 21.191
+\t (00:29:34) last pick:  48.260 20.320
+\i (00:29:35) pick grid 59.890 12.686
+\t (00:29:35) last pick:  60.960 12.700
+\t (00:29:35) last pick:  55.880 12.700
+\t (00:29:35) Moving R17 / R_RES400_22K / RES400.
+\t (00:29:35) Pick new location for the element(s).
+\i (00:29:36) pick grid 54.539 18.324
+\t (00:29:36) last pick:  53.340 17.780
+\i (00:29:36) pick grid 31.988 17.464
+\t (00:29:36) last pick:  33.020 17.780
+\t (00:29:36) last pick:  17.780 12.700
+\t (00:29:36) Moving U3 / 74LS90_1_DIP14_3_74LS90 / DIP14_3.
+\t (00:29:36) Pick new location for the element(s).
+\i (00:29:38) pick grid 31.797 15.744
+\t (00:29:38) last pick:  33.020 15.240
+\i (00:29:39) pick grid 66.484 11.062
+\t (00:29:39) last pick:  66.040 10.160
+\i (00:29:47) pick grid 12.303 22.433
+\t (00:29:47) last pick:  12.700 22.860
+\t (00:29:47) last pick:  12.700 30.480
+\t (00:29:47) Moving R8 / R_RES400_1K / RES400.
+\t (00:29:47) Pick new location for the element(s).
+\i (00:29:49) pick grid 24.152 25.586
+\t (00:29:49) last pick:  25.400 25.400
+\i (00:29:50) drag_start grid 19.565 61.803
+\i (00:29:51) drag_stop 33.612 52.342
+\i (00:29:51) pick grid 33.803 52.151
+\t (00:29:51) last pick:  33.020 53.340
+\t (00:29:51) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:29:51) Moving R1 / R_RES400_10K / RES400.
+\t (00:29:51) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:29:51) Moving R3 / R_RES400_10K / RES400.
+\t (00:29:51) Pick new location for the element(s).
+\i (00:29:53) pick grid 36.192 52.151
+\t (00:29:53) last pick:  35.560 53.340
+\i (00:29:54) pick grid 42.499 51.005
+\t (00:29:54) last pick:  43.180 50.800
+\i (00:29:54) drag_start grid 19.470 59.796
+\i (00:29:55) drag_stop 36.574 53.298
+\i (00:29:55) pick grid 37.530 53.298
+\t (00:29:55) last pick:  38.100 53.340
+\t (00:29:55) Moving R1 / R_RES400_10K / RES400.
+\t (00:29:55) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:29:55) Moving R3 / R_RES400_10K / RES400.
+\t (00:29:55) Moving U1 / LM741_0_DIP8_3_LM741 / DIP8_3.
+\t (00:29:55) Pick new location for the element(s).
+\i (00:29:57) pick grid 37.912 51.960
+\t (00:29:57) last pick:  38.100 50.800
+\i (00:29:57) pick grid 41.352 53.680
+\t (00:29:57) last pick:  40.640 53.340
+\i (00:29:58) drag_start grid 19.470 58.649
+\i (00:29:59) drag_stop 37.339 54.254
+\i (00:29:59) pick grid 37.626 54.062
+\t (00:29:59) last pick:  38.100 53.340
+\t (00:29:59) Moving R1 / R_RES400_10K / RES400.
+\t (00:29:59) Moving R3 / R_RES400_10K / RES400.
+\t (00:29:59) Moving R7 / R_RES400_6.8K / RES400.
+\t (00:29:59) Pick new location for the element(s).
+\i (00:30:04) pick grid 39.441 52.438
+\t (00:30:04) last pick:  40.640 53.340
+\i (00:30:05) pick grid 48.519 50.909
+\t (00:30:05) last pick:  48.260 50.800
+\i (00:30:18) pick grid 17.941 20.235
+\t (00:30:18) last pick:  17.780 20.320
+\i (00:30:20) pick grid 13.545 48.329
+\t (00:30:20) last pick:  12.700 48.260
+\t (00:30:20) last pick:  12.700 50.800
+\t (00:30:20) Moving C1 / CAP NP_CAP196_0.1UF / CAP196.
+\t (00:30:20) Pick new location for the element(s).
+\i (00:30:23) pick grid 16.699 44.985
+\t (00:30:23) last pick:  17.780 45.720
+\i (00:30:24) pick grid 54.348 48.711
+\t (00:30:24) last pick:  53.340 48.260
+\i (00:30:59) prmed 
+\i (00:31:00) setwindow form.prmedit
+\i (00:31:00) FORM prmedit cancel  
+\i (00:31:00) setwindow pcb
+\i (00:31:00) generaledit 
+\i (00:31:03) cmgr 
+\i (00:31:04) generaledit 
+\i (00:31:07) setwindow cmgr
+\i (00:31:07) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:31:09) cm scope Design "DA CONVERTOR"
+\i (00:31:09) cm expand ( row ( "Physical CSet" "DEFAULT" ) )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) MIN_LINE_WIDTH 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) MAX_LINE_WIDTH 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) MIN_NECK_WIDTH 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) MAXIMUM_NECK_LENGTH 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_MIN_SPACE 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_PRIMARY_GAP 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_NECK_GAP 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_COUPLED_PLUS 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_COUPLED_MINUS 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) MIN_BVIA_STAGGER 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm putValue ( "Physical CSet" "DEFAULT" ) MAX_BVIA_STAGGER 0.5 7 ( "Physical CSet" "DEFAULT" )
+\i (00:31:14) cm endUndoBlock
+\i (00:31:15) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:31:16) cm expand ( row ( "Object Type" "XNets/Nets" ) )
+\i (00:31:53) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:32:16) cm putValue ( Net "+5V" ) MAX_LINE_WIDTH 1 7 ( Net "+5V" )
+\i (00:32:16) cm endUndoBlock
+\i (00:32:19) cm putValue ( Net "+5V" ) MIN_LINE_WIDTH 1 7 ( Net "+5V" )
+\i (00:32:19) cm endUndoBlock
+\i (00:32:26) cm putValue ( Net "+5V" ) MIN_LINE_WIDTH 1 7 ( Net "+5V" )
+\i (00:32:26) cm putValue ( Net "+5V" ) MAX_LINE_WIDTH 1 7 ( Net "+5V" )
+\i (00:32:26) cm putValue ( Net "+5V" ) MIN_NECK_WIDTH 1 7 ( Net "+5V" )
+\i (00:32:26) cm putValue ( Net "+5V" ) MAXIMUM_NECK_LENGTH 1 7 ( Net "+5V" )
+\i (00:32:26) cm endUndoBlock
+\i (00:32:35) cm putValue ( Net "+12V" ) MAX_LINE_WIDTH 0.5001 7 ( Net "+12V" )
+\i (00:32:35) cm endUndoBlock
+\i (00:32:38) cm putValue ( Net "+12V" ) MAX_LINE_WIDTH 1 7 ( Net "+12V" )
+\i (00:32:38) cm endUndoBlock
+\i (00:32:39) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:32:52) cm expand ( row ( "Physical CSet" "DEFAULT" ) ( "Layer Type" "Conductor" ) )
+\i (00:33:39) cm putValue ( "Layer Type" "Conductor" ) MAX_LINE_WIDTH 0.000 7 ( "Physical CSet" "DEFAULT" ) ( "Layer Type" "Conductor" )
+\i (00:33:39) cm endUndoBlock
+\i (00:33:46) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:33:54) cm putValue ( Net "+12V" ) MIN_LINE_WIDTH 1 7 ( Net "+12V" )
+\i (00:33:54) cm endUndoBlock
+\i (00:33:58) cm putValue ( Net "-12V" ) MIN_LINE_WIDTH 1 7 ( Net "-12V" )
+\i (00:33:58) cm endUndoBlock
+\i (00:34:04) cm putValue ( Net "GND" ) MIN_LINE_WIDTH 1 7 ( Net "GND" )
+\i (00:34:04) cm endUndoBlock
+\i (00:34:09) cm putValue ( Net "GND" ) MIN_LINE_WIDTH 1.0000 7 ( Net "GND" )
+\i (00:34:09) cm endUndoBlock
+\i (00:34:18) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:34:21) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:34:35) cm putValue ( "Spacing CSet" "DEFAULT" ) THRUPIN_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:35) cm endUndoBlock
+\i (00:34:39) cm putValue ( "Spacing CSet" "DEFAULT" ) LINE_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:39) cm endUndoBlock
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) LINE_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) THRUPIN_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) SMDPIN_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) TESTPIN_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) THRUVIA_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) BBV_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) TESTVIA_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) SHAPE_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) BONDPAD_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm putValue ( "Spacing CSet" "DEFAULT" ) HOLE_SPACING 0.254 7 ( "Spacing CSet" "DEFAULT" )
+\i (00:34:46) cm endUndoBlock
+\i (00:34:51) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:34:53) cm expand ( row ( "Same Net Spacing CSet" "DEFAULT" ) )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_LINE_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_THRUPIN_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_SMD_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_TESTPIN_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_THRUVIA_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_BBV_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_TESTVIA_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_SHAPE_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_BONDPAD_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm putValue ( "Same Net Spacing CSet" "DEFAULT" ) SN_HOLE_SPACING 0.254 7 ( "Same Net Spacing CSet" "DEFAULT" )
+\i (00:34:58) cm endUndoBlock
+\i (00:35:00) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:35:00) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:35:00) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:35:00) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:35:00) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:35:00) cm exit
+\i (00:35:05) setwindow pcb
+\i (00:35:05) add connect 
+\w (00:35:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:35:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:35:05) Pick first element.
+\i (00:35:06) zoom in 1 
+\i (00:35:06) setwindow pcb
+\i (00:35:06) zoom in 11.634 32.753
+\i (00:35:06) trapsize 239
+\i (00:35:09) zoom out 1 
+\i (00:35:09) setwindow pcb
+\i (00:35:09) zoom out 14.357 36.384
+\i (00:35:09) trapsize 478
+\i (00:35:14) pick grid 35.858 56.260
+\t (00:35:14) last pick:  35.560 56.515
+\t (00:35:14) last pick:  35.560 55.880
+\t (00:35:14) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:35:14) last pick:  35.560 55.880
+\i (00:35:17) zoom in 1 
+\i (00:35:17) setwindow pcb
+\i (00:35:17) zoom in 35.954 56.260
+\i (00:35:17) trapsize 239
+\i (00:35:22) setwindow form.mini
+\i (00:35:22) FORM mini lock_direction 45 
+\i (00:35:25) setwindow pcb
+\i (00:35:25) pick grid 35.907 58.410
+\t (00:35:25) last pick:  36.195 58.420
+\t (00:35:25) No DRC errors detected.
+\i (00:35:32) pick grid 60.178 59.414
+\t (00:35:32) last pick:  60.325 59.690
+\t (00:35:32) No DRC errors detected.
+\i (00:35:32) mouse_pos 62.567 59.031
+\i (00:35:33) pick grid 63.475 58.076
+\t (00:35:33) last pick:  63.500 57.785
+\t (00:35:
